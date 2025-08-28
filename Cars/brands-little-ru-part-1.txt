@@ -1,0 +1,713 @@
+Какая модель у Kia?
+Kia Ceed.
+
+Кто выпускает Focus?
+Ford выпускает модель Focus.
+
+Какая модель у Kia?
+Kia Rio.
+
+Кто выпускает Tiguan?
+Volkswagen выпускает модель Tiguan.
+
+Кто выпускает Mazda3?
+Mazda выпускает модель Mazda3.
+
+Какая модель у Chevrolet?
+Chevrolet Spark.
+
+Какая модель у Volvo?
+Volvo V60.
+
+Кто выпускает HR-V?
+Honda выпускает модель HR-V.
+
+Кто выпускает MX-5?
+Mazda выпускает модель MX-5.
+
+Кто выпускает Cruze?
+Chevrolet выпускает модель Cruze.
+
+Какая модель у Audi?
+Audi A4.
+
+Кто выпускает Maxima?
+Nissan выпускает модель Maxima.
+
+Какая модель у Lexus?
+Lexus IS.
+
+Какая модель у Subaru?
+Subaru Outback.
+
+Кто выпускает Q7?
+Audi выпускает модель Q7.
+
+Кто выпускает Eclipse?
+Mitsubishi выпускает модель Eclipse.
+
+Какая модель у Subaru?
+Subaru Forester.
+
+Кто выпускает Civic?
+Honda выпускает модель Civic.
+
+Какая модель у Mitsubishi?
+Mitsubishi Outlander.
+
+Кто выпускает Altima?
+Nissan выпускает модель Altima.
+
+Кто выпускает Explorer?
+Ford выпускает модель Explorer.
+
+Кто выпускает Outback?
+Subaru выпускает модель Outback.
+
+Какая модель у Chevrolet?
+Chevrolet Tahoe.
+
+Кто выпускает LX?
+Lexus выпускает модель LX.
+
+Какая модель у Mitsubishi?
+Mitsubishi Eclipse.
+
+Какая модель у Mazda?
+Mazda CX-5.
+
+Какая модель у Kia?
+Kia Sorento.
+
+Кто выпускает Land Cruiser?
+Toyota выпускает модель Land Cruiser.
+
+Какая модель у Chevrolet?
+Chevrolet Malibu.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz GLE.
+
+Кто выпускает Rio?
+Kia выпускает модель Rio.
+
+Кто выпускает Portofino?
+Ferrari выпускает модель Portofino.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz C-Class.
+
+Какая модель у Lexus?
+Lexus NX.
+
+Кто выпускает AMG GT?
+Mercedes-Benz выпускает модель AMG GT.
+
+Какая модель у Subaru?
+Subaru WRX.
+
+Кто выпускает 3 Series?
+BMW выпускает модель 3 Series.
+
+Какая модель у Lamborghini?
+Lamborghini Gallardo.
+
+Кто выпускает 5 Series?
+BMW выпускает модель 5 Series.
+
+Какая модель у Kia?
+Kia Stinger.
+
+Какая модель у Ferrari?
+Ferrari Portofino.
+
+Какая модель у BMW?
+BMW 3 Series.
+
+Кто выпускает Lancer?
+Mitsubishi выпускает модель Lancer.
+
+Кто выпускает Yaris?
+Toyota выпускает модель Yaris.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz S-Class.
+
+Какая модель у Porsche?
+Porsche 911.
+
+Кто выпускает Gallardo?
+Lamborghini выпускает модель Gallardo.
+
+Кто выпускает XC60?
+Volvo выпускает модель XC60.
+
+Какая модель у Volvo?
+Volvo XC40.
+
+Какая модель у BMW?
+BMW X5.
+
+Кто выпускает CX-9?
+Mazda выпускает модель CX-9.
+
+Какая модель у Volkswagen?
+Volkswagen Tiguan.
+
+Кто выпускает 488?
+Ferrari выпускает модель 488.
+
+Кто выпускает CX-3?
+Mazda выпускает модель CX-3.
+
+Кто выпускает Accord?
+Honda выпускает модель Accord.
+
+Кто выпускает A6?
+Audi выпускает модель A6.
+
+Кто выпускает XC40?
+Volvo выпускает модель XC40.
+
+Какая модель у Nissan?
+Nissan Micra.
+
+Кто выпускает Fit?
+Honda выпускает модель Fit.
+
+Кто выпускает Cherokee?
+Jeep выпускает модель Cherokee.
+
+Кто выпускает LaFerrari?
+Ferrari выпускает модель LaFerrari.
+
+Какая модель у Audi?
+Audi A6.
+
+Кто выпускает GLA?
+Mercedes-Benz выпускает модель GLA.
+
+Какая модель у Nissan?
+Nissan Altima.
+
+Кто выпускает Impreza?
+Subaru выпускает модель Impreza.
+
+Кто выпускает i10?
+Hyundai выпускает модель i10.
+
+Кто выпускает Sportage?
+Kia выпускает модель Sportage.
+
+Какая модель у Nissan?
+Nissan Maxima.
+
+Кто выпускает RAV4?
+Toyota выпускает модель RAV4.
+
+Кто выпускает GLC?
+Mercedes-Benz выпускает модель GLC.
+
+Какая модель у Ferrari?
+Ferrari F8 Tributo.
+
+Какая модель у Mitsubishi?
+Mitsubishi ASX.
+
+Какая модель у Mazda?
+Mazda MX-5.
+
+Какая модель у Hyundai?
+Hyundai i20.
+
+Кто выпускает Silverado?
+Chevrolet выпускает модель Silverado.
+
+Какая модель у Kia?
+Kia Soul.
+
+Какая модель у Honda?
+Honda HR-V.
+
+Какая модель у Lamborghini?
+Lamborghini Aventador.
+
+Кто выпускает Legacy?
+Subaru выпускает модель Legacy.
+
+Кто выпускает C-Class?
+Mercedes-Benz выпускает модель C-Class.
+
+Кто выпускает Malibu?
+Chevrolet выпускает модель Malibu.
+
+Какая модель у Chevrolet?
+Chevrolet Silverado.
+
+Кто выпускает Urus?
+Lamborghini выпускает модель Urus.
+
+Кто выпускает ASX?
+Mitsubishi выпускает модель ASX.
+
+Кто выпускает RX?
+Lexus выпускает модель RX.
+
+Какая модель у Jeep?
+Jeep Grand Cherokee.
+
+Кто выпускает Sorento?
+Kia выпускает модель Sorento.
+
+Кто выпускает Grand Cherokee?
+Jeep выпускает модель Grand Cherokee.
+
+Кто выпускает Ceed?
+Kia выпускает модель Ceed.
+
+Кто выпускает E-Class?
+Mercedes-Benz выпускает модель E-Class.
+
+Какая модель у Lexus?
+Lexus ES.
+
+Кто выпускает Arteon?
+Volkswagen выпускает модель Arteon.
+
+Какая модель у Honda?
+Honda Civic.
+
+Какая модель у Nissan?
+Nissan X-Trail.
+
+Кто выпускает Wrangler?
+Jeep выпускает модель Wrangler.
+
+Какая модель у Ferrari?
+Ferrari Roma.
+
+Кто выпускает Elantra?
+Hyundai выпускает модель Elantra.
+
+Какая модель у Lexus?
+Lexus GS.
+
+Какая модель у Toyota?
+Toyota RAV4.
+
+Кто выпускает 7 Series?
+BMW выпускает модель 7 Series.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz AMG GT.
+
+Кто выпускает Corolla?
+Toyota выпускает модель Corolla.
+
+Какая модель у Mazda?
+Mazda Mazda3.
+
+Какая модель у Lamborghini?
+Lamborghini Huracan.
+
+Кто выпускает Q5?
+Audi выпускает модель Q5.
+
+Кто выпускает 911?
+Porsche выпускает модель 911.
+
+Какая модель у Jeep?
+Jeep Wrangler.
+
+Кто выпускает Passat?
+Volkswagen выпускает модель Passat.
+
+Какая модель у Nissan?
+Nissan GT-R.
+
+Какая модель у BMW?
+BMW M3.
+
+Какая модель у Ford?
+Ford Kuga.
+
+Какая модель у Lexus?
+Lexus RX.
+
+Какая модель у BMW?
+BMW 7 Series.
+
+Какая модель у Ford?
+Ford Fiesta.
+
+Какая модель у Toyota?
+Toyota Land Cruiser.
+
+Кто выпускает Outlander?
+Mitsubishi выпускает модель Outlander.
+
+Кто выпускает M5?
+BMW выпускает модель M5.
+
+Какая модель у Honda?
+Honda CR-V.
+
+Какая модель у Volvo?
+Volvo S90.
+
+Кто выпускает GT-R?
+Nissan выпускает модель GT-R.
+
+Какая модель у Honda?
+Honda Fit.
+
+Какая модель у Jeep?
+Jeep Compass.
+
+Какая модель у BMW?
+BMW X3.
+
+Какая модель у Audi?
+Audi Q7.
+
+Кто выпускает Qashqai?
+Nissan выпускает модель Qashqai.
+
+Кто выпускает Camaro?
+Chevrolet выпускает модель Camaro.
+
+Какая модель у Audi?
+Audi Q3.
+
+Какая модель у Hyundai?
+Hyundai i30.
+
+Какая модель у Honda?
+Honda Pilot.
+
+Какая модель у Lamborghini?
+Lamborghini Urus.
+
+Кто выпускает Santa Fe?
+Hyundai выпускает модель Santa Fe.
+
+Кто выпускает Cayenne?
+Porsche выпускает модель Cayenne.
+
+Какая модель у Toyota?
+Toyota Corolla.
+
+Кто выпускает Tahoe?
+Chevrolet выпускает модель Tahoe.
+
+Кто выпускает Pilot?
+Honda выпускает модель Pilot.
+
+Кто выпускает CX-5?
+Mazda выпускает модель CX-5.
+
+Кто выпускает RS6?
+Audi выпускает модель RS6.
+
+Какая модель у Nissan?
+Nissan Juke.
+
+Кто выпускает A4?
+Audi выпускает модель A4.
+
+Кто выпускает S60?
+Volvo выпускает модель S60.
+
+Какая модель у Hyundai?
+Hyundai Santa Fe.
+
+Кто выпускает Renegade?
+Jeep выпускает модель Renegade.
+
+Кто выпускает Compass?
+Jeep выпускает модель Compass.
+
+Кто выпускает Highlander?
+Toyota выпускает модель Highlander.
+
+Кто выпускает Mazda6?
+Mazda выпускает модель Mazda6.
+
+Какая модель у Mitsubishi?
+Mitsubishi Pajero.
+
+Какая модель у Ford?
+Ford F-150.
+
+Кто выпускает Soul?
+Kia выпускает модель Soul.
+
+Какая модель у Audi?
+Audi RS6.
+
+Какая модель у Honda?
+Honda Accord.
+
+Кто выпускает Aventador?
+Lamborghini выпускает модель Aventador.
+
+Какая модель у Chevrolet?
+Chevrolet Cruze.
+
+Какая модель у Lexus?
+Lexus LX.
+
+Какая модель у Porsche?
+Porsche Macan.
+
+Какая модель у Subaru?
+Subaru Impreza.
+
+Какая модель у Ferrari?
+Ferrari LaFerrari.
+
+Какая модель у Volkswagen?
+Volkswagen Passat.
+
+Кто выпускает Taycan?
+Porsche выпускает модель Taycan.
+
+Кто выпускает BRZ?
+Subaru выпускает модель BRZ.
+
+Кто выпускает Pajero?
+Mitsubishi выпускает модель Pajero.
+
+Кто выпускает Stinger?
+Kia выпускает модель Stinger.
+
+Какая модель у Chevrolet?
+Chevrolet Camaro.
+
+Какая модель у Mazda?
+Mazda CX-9.
+
+Кто выпускает A3?
+Audi выпускает модель A3.
+
+Кто выпускает Touareg?
+Volkswagen выпускает модель Touareg.
+
+Какая модель у Hyundai?
+Hyundai Tucson.
+
+Какая модель у Toyota?
+Toyota Highlander.
+
+Кто выпускает Juke?
+Nissan выпускает модель Juke.
+
+Какая модель у Volkswagen?
+Volkswagen Arteon.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz GLA.
+
+Кто выпускает Mustang?
+Ford выпускает модель Mustang.
+
+Какая модель у Ford?
+Ford Explorer.
+
+Кто выпускает XC90?
+Volvo выпускает модель XC90.
+
+Какая модель у Mazda?
+Mazda CX-3.
+
+Кто выпускает IS?
+Lexus выпускает модель IS.
+
+Какая модель у Volkswagen?
+Volkswagen Touareg.
+
+Какая модель у Toyota?
+Toyota Yaris.
+
+Кто выпускает Macan?
+Porsche выпускает модель Macan.
+
+Какая модель у Porsche?
+Porsche Cayenne.
+
+Кто выпускает Tucson?
+Hyundai выпускает модель Tucson.
+
+Кто выпускает Camry?
+Toyota выпускает модель Camry.
+
+Какая модель у Subaru?
+Subaru Legacy.
+
+Какая модель у Ford?
+Ford Mustang.
+
+Кто выпускает CR-V?
+Honda выпускает модель CR-V.
+
+Кто выпускает V60?
+Volvo выпускает модель V60.
+
+Какая модель у Volvo?
+Volvo XC90.
+
+Какая модель у Toyota?
+Toyota Supra.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz GLC.
+
+Кто выпускает M3?
+BMW выпускает модель M3.
+
+Какая модель у Porsche?
+Porsche Taycan.
+
+Кто выпускает ES?
+Lexus выпускает модель ES.
+
+Какая модель у Hyundai?
+Hyundai Elantra.
+
+Кто выпускает Huracan?
+Lamborghini выпускает модель Huracan.
+
+Кто выпускает Kuga?
+Ford выпускает модель Kuga.
+
+Кто выпускает S-Class?
+Mercedes-Benz выпускает модель S-Class.
+
+Кто выпускает GLE?
+Mercedes-Benz выпускает модель GLE.
+
+Кто выпускает Roma?
+Ferrari выпускает модель Roma.
+
+Какая модель у BMW?
+BMW 5 Series.
+
+Какая модель у Ferrari?
+Ferrari 488.
+
+Какая модель у Jeep?
+Jeep Cherokee.
+
+Кто выпускает WRX?
+Subaru выпускает модель WRX.
+
+Кто выпускает Golf?
+Volkswagen выпускает модель Golf.
+
+Какая модель у Hyundai?
+Hyundai i10.
+
+Кто выпускает X5?
+BMW выпускает модель X5.
+
+Какая модель у Volvo?
+Volvo XC60.
+
+Кто выпускает Polo?
+Volkswagen выпускает модель Polo.
+
+Кто выпускает Spark?
+Chevrolet выпускает модель Spark.
+
+Кто выпускает Fiesta?
+Ford выпускает модель Fiesta.
+
+Кто выпускает Micra?
+Nissan выпускает модель Micra.
+
+Кто выпускает i30?
+Hyundai выпускает модель i30.
+
+Кто выпускает F-150?
+Ford выпускает модель F-150.
+
+Какая модель у Volkswagen?
+Volkswagen Golf.
+
+Кто выпускает F8 Tributo?
+Ferrari выпускает модель F8 Tributo.
+
+Какая модель у BMW?
+BMW M5.
+
+Кто выпускает S90?
+Volvo выпускает модель S90.
+
+Кто выпускает NX?
+Lexus выпускает модель NX.
+
+Какая модель у Mercedes-Benz?
+Mercedes-Benz E-Class.
+
+Кто выпускает Forester?
+Subaru выпускает модель Forester.
+
+Какая модель у Subaru?
+Subaru BRZ.
+
+Какая модель у Toyota?
+Toyota Camry.
+
+Какая модель у Nissan?
+Nissan Qashqai.
+
+Какая модель у Mitsubishi?
+Mitsubishi Lancer.
+
+Кто выпускает GS?
+Lexus выпускает модель GS.
+
+Кто выпускает X-Trail?
+Nissan выпускает модель X-Trail.
+
+Кто выпускает Panamera?
+Porsche выпускает модель Panamera.
+
+Какая модель у Jeep?
+Jeep Renegade.
+
+Какая модель у Volkswagen?
+Volkswagen Polo.
+
+Какая модель у Volvo?
+Volvo S60.
+
+Какая модель у Ford?
+Ford Focus.
+
+Кто выпускает X3?
+BMW выпускает модель X3.
+
+Кто выпускает Q3?
+Audi выпускает модель Q3.
+
+Какая модель у Mazda?
+Mazda Mazda6.
+
+Кто выпускает i20?
+Hyundai выпускает модель i20.
+
+Кто выпускает Supra?
+Toyota выпускает модель Supra.
+
+Какая модель у Audi?
+Audi Q5.
+
+Какая модель у Kia?
+Kia Sportage.
+
+Какая модель у Audi?
+Audi A3.
+
+Какая модель у Porsche?
+Porsche Panamera.
