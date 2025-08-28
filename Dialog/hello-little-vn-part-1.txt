@@ -1,0 +1,629 @@
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Mình khỏe, vừa đi Hà Nội về.
+Thế nào?
+Rất nhộn nhịp và đẹp.
+
+Chào buổi sáng.
+Chào buổi sáng.
+Bạn là ai?
+Mình là quản lý dự án mới.
+Rất vui được gặp bạn.
+Mình cũng vậy.
+
+Này.
+Chào.
+Dạo này sao rồi?
+Ổn, mình vừa mua giày Nike.
+Đi có thoải mái không?
+Rất thoải mái.
+
+Chào buổi tối.
+Xin chào.
+Bạn khỏe không?
+Hơi mệt, hôm nay nhiều họp quá.
+Bạn làm ở đâu?
+Mình làm ở Microsoft.
+
+Xin chào.
+Xin chào.
+Bạn đang làm gì?
+Mình đang tìm vé đi Rome.
+Đi nghỉ à?
+Đúng rồi, cần nghỉ ngơi.
+
+Chào buổi sáng.
+Xin chào.
+Bạn là ai?
+Mình là nhiếp ảnh gia ở Sài Gòn.
+Hay quá.
+Ừ, mình thích chụp ảnh.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Mình khỏe, vừa mua xe Toyota.
+Hài lòng chứ?
+Rất hài lòng.
+
+Chào buổi tối.
+Xin chào.
+Bạn thế nào?
+Tuyệt, mình vừa hoàn thành dự án thiết kế.
+Cho ai?
+Một công ty khởi nghiệp.
+
+Xin chào.
+Xin chào.
+Bạn cảm thấy sao?
+Thoải mái, đang uống cà phê ở Starbucks.
+Ngon không?
+Ngon lắm.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Rất tốt, mình vừa xong dự án BMW.
+Chúc mừng!
+Cảm ơn.
+
+Xin chào.
+Xin chào.
+Bạn là ai?
+Mình là đồng nghiệp mới trong phòng marketing.
+Hoan nghênh.
+Cảm ơn.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình vừa mua laptop Lenovo.
+Nhanh không?
+Rất nhanh.
+
+Xin chào.
+Xin chào.
+Có gì mới?
+Mình đang học Python.
+Thích không?
+Rất thích, dễ hiểu.
+
+Chào buổi sáng.
+Xin chào.
+Cuộc sống thế nào?
+Ổn, mình vừa đi Vienna.
+Cảm nhận ra sao?
+Thành phố yên tĩnh.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Rất tốt, mình mua giày Adidas.
+Đẹp không?
+Rất đẹp.
+
+Chào buổi tối.
+Xin chào.
+Bạn là ai?
+Mình là phóng viên du lịch.
+Tuyệt!
+Ừ, mình đi nhiều nơi.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình đang học Kotlin.
+Khó không?
+Một chút, nhưng hữu ích.
+
+Chào buổi sáng.
+Xin chào.
+Bạn làm nghề gì?
+Mình là kiến trúc sư.
+Nghe hay đấy.
+Ừ, công việc sáng tạo.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình sắp đi Barcelona.
+Tuyệt thế.
+Mình cũng háo hức.
+
+Chào buổi tối.
+Xin chào.
+Bạn là ai?
+Mình là phục vụ ở quán này.
+À, nhớ rồi.
+Hôm qua gặp rồi.
+
+Xin chào.
+Xin chào.
+Bạn cảm thấy thế nào?
+Mình vui, vừa mua iPhone.
+Mới nhất à?
+Đúng rồi, rất tốt.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Hôm nay bận lắm.
+Bạn làm ở đâu?
+Mình làm ở Google.
+
+Xin chào.
+Xin chào.
+Bạn làm gì đấy?
+Mình đang xem Netflix.
+Xem phim gì?
+Money Heist.
+
+Chào buổi tối.
+Xin chào.
+Cuộc sống thế nào?
+Ổn, mình vừa đi Berlin về.
+Thế nào?
+Rất hiện đại.
+
+Xin chào.
+Xin chào.
+Bạn là ai?
+Mình là tài xế Uber hôm qua.
+Ồ, ra vậy.
+Thế giới nhỏ thật.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Khỏe, nhưng cần nghỉ phép.
+Muốn đi đâu?
+Lisbon.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Rất tốt, mình mua laptop MSI.
+Để làm gì?
+Chơi game, cực nhanh.
+
+Chào buổi tối.
+Xin chào.
+Bạn làm nghề gì?
+Mình là giáo viên.
+Cực không?
+Đôi khi, nhưng mình thích.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình vừa mua vé đi Athens.
+Tuyệt!
+Mình rất vui.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Rất tốt, mình mua giày Puma.
+Thoải mái chứ?
+Rất thoải mái.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Mình khỏe, vừa đi Đà Nẵng về.
+Thế nào?
+Biển rất đẹp.
+
+Chào buổi sáng.
+Chào buổi sáng.
+Bạn là ai?
+Mình là kỹ sư phần mềm mới.
+Rất vui được gặp bạn.
+Mình cũng vậy.
+
+Này.
+Xin chào.
+Dạo này sao rồi?
+Ổn, mình vừa mua giày Puma.
+Đi có thoải mái không?
+Rất nhẹ.
+
+Chào buổi tối.
+Xin chào.
+Bạn khỏe không?
+Hơi mệt, hôm nay làm việc nhiều.
+Bạn làm ở đâu?
+Ở Deloitte.
+
+Xin chào.
+Xin chào.
+Bạn đang làm gì?
+Mình đang đặt vé đi Tokyo.
+Nghỉ lễ à?
+Đúng rồi.
+
+Chào buổi sáng.
+Xin chào.
+Bạn là ai?
+Mình là nhiếp ảnh gia ở Hà Nội.
+Hay thế.
+Ừ, mình thích chụp cảnh đường phố.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Mình khỏe, vừa mua xe Honda.
+Tốt chứ?
+Rất ổn định.
+
+Chào buổi tối.
+Xin chào.
+Bạn thế nào?
+Tốt, mình hoàn thành xong website.
+Khách hàng là ai?
+Một cửa hàng trực tuyến.
+
+Xin chào.
+Xin chào.
+Bạn cảm thấy sao?
+Thoải mái, đang uống cappuccino ở Starbucks.
+Ngon không?
+Rất ngon.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Tuyệt, mình kết thúc dự án Audi.
+Chúc mừng!
+Cảm ơn nhiều.
+
+Xin chào.
+Xin chào.
+Bạn là ai?
+Mình là đồng nghiệp mới trong phòng tài chính.
+Hoan nghênh.
+Cảm ơn.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Mình vừa mua laptop Dell.
+Có nhanh không?
+Rất nhanh.
+
+Xin chào.
+Xin chào.
+Có gì mới?
+Mình đang học Java.
+Khó không?
+Hơi khó nhưng thú vị.
+
+Chào buổi sáng.
+Xin chào.
+Cuộc sống thế nào?
+Ổn, mình mới đi Prague.
+Cảm nhận?
+Thành phố cổ kính.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Tốt, mình mua giày Adidas.
+Đẹp không?
+Rất phong cách.
+
+Chào buổi tối.
+Xin chào.
+Bạn là ai?
+Mình là nhà báo thể thao.
+Hay quá.
+Ừ, mình đi theo đội bóng.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Ổn, mình học Swift.
+Khó chứ?
+Không nhiều, khá vui.
+
+Chào buổi sáng.
+Xin chào.
+Bạn làm nghề gì?
+Mình là kiến trúc sư nội thất.
+Thú vị không?
+Rất sáng tạo.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình sắp đi Rome.
+Tuyệt quá.
+Mình rất háo hức.
+
+Chào buổi tối.
+Xin chào.
+Bạn là ai?
+Mình là phục vụ ở khách sạn này.
+À, nhớ rồi.
+Hôm qua gặp bạn.
+
+Xin chào.
+Xin chào.
+Bạn cảm thấy thế nào?
+Vui, mình vừa mua Samsung Galaxy.
+Mới hả?
+Ừ, chạy nhanh lắm.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Hôm nay bận lắm.
+Bạn làm ở đâu?
+Google.
+
+Xin chào.
+Xin chào.
+Bạn đang làm gì?
+Mình đang xem Netflix.
+Phim gì?
+Stranger Things.
+
+Chào buổi tối.
+Xin chào.
+Cuộc sống thế nào?
+Ổn, mình vừa đi Berlin.
+Thành phố sao?
+Rất hiện đại.
+
+Xin chào.
+Xin chào.
+Bạn là ai?
+Mình là tài xế Uber hôm qua.
+Ồ, trùng hợp ghê.
+Thế giới nhỏ thật.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Ổn, nhưng cần nghỉ phép.
+Muốn đi đâu?
+Lisbon.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Tuyệt, mình vừa mua laptop MSI.
+Để làm gì?
+Chơi game.
+
+Chào buổi tối.
+Xin chào.
+Bạn làm nghề gì?
+Mình là giáo viên lịch sử.
+Vất vả không?
+Đôi khi, nhưng mình yêu nghề.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình vừa mua vé đi Barcelona.
+Vui không?
+Rất vui.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Tốt, mình mua giày Nike.
+Thoải mái không?
+Rất thoải mái.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Mình khỏe, vừa đi Huế về.
+Thế nào?
+Rất yên bình và nhiều di tích.
+
+Chào buổi sáng.
+Chào buổi sáng.
+Bạn là ai?
+Mình là nhân viên phân tích dữ liệu mới.
+Rất vui gặp bạn.
+Mình cũng vậy.
+
+Này.
+Xin chào.
+Dạo này sao rồi?
+Ổn, mình vừa mua giày Reebok.
+Đi tốt chứ?
+Rất nhẹ và êm.
+
+Chào buổi tối.
+Xin chào.
+Bạn khỏe không?
+Mệt chút, hôm nay nhiều việc.
+Bạn làm ở đâu?
+Ở Samsung.
+
+Xin chào.
+Xin chào.
+Bạn đang làm gì?
+Mình đặt vé đi Madrid.
+Đi công tác?
+Không, đi nghỉ.
+
+Chào buổi sáng.
+Xin chào.
+Bạn là ai?
+Mình là nhiếp ảnh gia ở Đà Lạt.
+Thích nhỉ.
+Ừ, cảnh đẹp lắm.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Mình khỏe, mới mua xe Hyundai.
+Ổn không?
+Rất tiết kiệm xăng.
+
+Chào buổi tối.
+Xin chào.
+Bạn thế nào?
+Tốt, mình vừa thiết kế xong app mới.
+Khách hàng ai?
+Một startup công nghệ.
+
+Xin chào.
+Xin chào.
+Bạn cảm thấy sao?
+Thoải mái, đang uống trà ở Starbucks.
+Ngon chứ?
+Ừ, tuyệt lắm.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Rất tốt, mình hoàn thành dự án Mercedes.
+Ghê thật.
+Cảm ơn.
+
+Xin chào.
+Xin chào.
+Bạn là ai?
+Mình là đồng nghiệp mới ở phòng nhân sự.
+Rất vui.
+Cảm ơn bạn.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Mình vừa mua laptop HP.
+Chạy nhanh không?
+Rất mượt.
+
+Xin chào.
+Xin chào.
+Có gì mới?
+Mình đang học C++.
+Khó à?
+Có, nhưng hữu ích.
+
+Chào buổi sáng.
+Xin chào.
+Cuộc sống thế nào?
+Ổn, mình đi Athens.
+Ấn tượng chứ?
+Rất cổ kính.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình mua giày Puma.
+Đẹp không?
+Màu rất hay.
+
+Chào buổi tối.
+Xin chào.
+Bạn là ai?
+Mình là nhà báo văn hóa.
+Nghe hay.
+Ừ, nhiều sự kiện.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình học Swift.
+Khó không?
+Một chút thôi.
+
+Chào buổi sáng.
+Xin chào.
+Bạn làm gì?
+Mình là kiến trúc sư cảnh quan.
+Thích không?
+Có, sáng tạo nhiều.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình chuẩn bị đi Rome.
+Thật tuyệt.
+Mình rất mong chờ.
+
+Chào buổi tối.
+Xin chào.
+Bạn là ai?
+Mình là nhân viên phục vụ quán ăn này.
+À, nhớ rồi.
+Đúng, hôm qua gặp.
+
+Xin chào.
+Xin chào.
+Bạn cảm thấy sao?
+Mình vui, vừa mua iPhone.
+Mới nhất à?
+Đúng rồi.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Bận lắm.
+Bạn làm ở đâu?
+Ở Google.
+
+Xin chào.
+Xin chào.
+Bạn làm gì thế?
+Mình xem Netflix.
+Phim gì?
+Dark.
+
+Chào buổi tối.
+Xin chào.
+Cuộc sống thế nào?
+Ổn, mình từ Berlin về.
+Thế nào?
+Rất hiện đại.
+
+Xin chào.
+Xin chào.
+Bạn là ai?
+Mình là tài xế Uber hôm qua.
+Ồ, thật sao.
+Đúng rồi.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Khỏe, nhưng cần nghỉ phép.
+Đi đâu?
+Lisbon.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Tuyệt, mình mua laptop MSI.
+Dùng để gì?
+Chơi game.
+
+Chào buổi tối.
+Xin chào.
+Bạn làm gì?
+Mình là giáo viên tiếng Anh.
+Thú vị không?
+Có, rất vui.
+
+Xin chào.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình mua vé đi Barcelona.
+Hào hứng?
+Rất nhiều.
+
+Chào buổi sáng.
+Xin chào.
+Bạn khỏe không?
+Khỏe, mình mua giày Nike.
+Thoải mái?
+Rất thoải mái.

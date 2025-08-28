@@ -1,0 +1,1673 @@
+Cześć!
+Hej.
+Jak się masz?
+Dobrze, wróciłem z Paryża.
+I jak?
+Romantyczne miasto, ale drogo.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym programistą w zespole.
+Na czym kodzisz?
+Głównie Python i JavaScript.
+
+Hej!
+Siema.
+Jak leci?
+Spoko, kupiłem nowe Adidas.
+Ładne?
+Mega.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Rzymu.
+Na urlop?
+Tak, pierwszy od dawna.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Trochę zmęczony, za dużo spotkań.
+A gdzie pracujesz?
+W korpo w Warszawie.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem w Budapeszcie.
+Super praca.
+Tak, dużo turystów.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem Toyotę.
+Zadowolony?
+Bardzo, nie narzekam.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, skończyłem projekt strony www.
+Dla kogo?
+Dla lokalnej kawiarni.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję latte ze Starbucks.
+Dobra?
+Smaczna, ale drogo.
+
+Dzień dobry.
+Cześć.
+Jak leci?
+Super, zakończyłem projekt dla Mercedesa.
+Gratulacje!
+Dzięki, ciężka praca.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem twoim nowym kolegą z marketingu.
+O, fajnie.
+Wzajemnie.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa Dell.
+I jak?
+Działa płynnie.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się Kotlina.
+Na Androida?
+Tak, aplikacje mobilne.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Byłem w Wiedniu.
+I jak?
+Spokojnie, elegancko.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, nowe buty Puma.
+Ładne?
+Mega wygodne.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem sportowym.
+Ciekawie brzmi.
+Tak, emocje cały czas.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Swifta.
+Do iOS?
+Dokładnie.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem wnętrz.
+Fajna robota?
+Bardzo kreatywna.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję podróż do Barcelony.
+Super!
+Już nie mogę się doczekać.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z klubu na rynku.
+O, teraz pamiętam.
+Miło znowu się spotkać.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem nowego Samsunga.
+Zadowolony?
+Tak, działa świetnie.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Ciężki dzień.
+Gdzie pracujesz?
+W Deloitte.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Co oglądasz?
+Stranger Things.
+
+Hej!
+Cześć.
+Jak życie?
+Byłem w Berlinie.
+I jak?
+Nowoczesne i hałaśliwe.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię rano.
+O, racja.
+Świat mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Dobrze, ale przydałby się urlop.
+Plany?
+Może Lizbona.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Do gier?
+Tak, rakieta.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem matematyki.
+Trudne?
+Tak, ale satysfakcjonujące.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Aten.
+Super.
+Czekam na wyjazd.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem buty Reebok.
+I jak?
+Mega wygodne.
+Cześć!
+Hej.
+Jak się masz?
+W porządku, właśnie wróciłem z Gdańska.
+I jak?
+Morze zawsze robi wrażenie.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym księgowym w biurze.
+O, witaj.
+Dzięki, miło mi.
+
+Hej!
+Siema.
+Jak leci?
+Dobrze, kupiłem nowe Nike.
+Ładne?
+Mega wygodne.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Rzymu.
+Na wakacje?
+Tak, chcę zobaczyć Koloseum.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Trochę zmęczony, długi dzień w pracy.
+A gdzie?
+W firmie logistycznej.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem w Krakowie.
+Super.
+Tak, praca marzeń.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem nową Mazdę.
+Fajna?
+Tak, dynamiczna.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, skończyłem projekt aplikacji mobilnej.
+Dla kogo?
+Dla firmy z Warszawy.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję latte ze Starbucks.
+Smaczne?
+Tak, ale cena boli.
+
+Dzień dobry.
+Cześć.
+Jak leci?
+Super, zakończyłem projekt dla Skody.
+Gratulacje!
+Dzięki.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem nowym kolegą z działu sprzedaży.
+Miło cię poznać.
+Wzajemnie.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa ASUS.
+I jak?
+Świetny do pracy.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się C#.
+Ciężko?
+Trochę, ale idzie.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Byłem w Wiedniu.
+I jak?
+Spokój i elegancja.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, nowe buty Adidas.
+Ładne?
+Bardzo.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem technologicznym.
+O, fajnie.
+Tak, dużo nowinek.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Reacta.
+Front-end?
+Tak, dokładnie.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem krajobrazu.
+Brzmi ciekawie.
+Tak, dużo natury.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję podróż do Barcelony.
+Super!
+Nie mogę się doczekać.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z hotelu.
+O, pamiętam!
+Tak, serwowałem ci drinka.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem Samsunga Galaxy.
+Zadowolony?
+Bardzo.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Zapracowany dzień.
+Gdzie pracujesz?
+W Deloitte.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Co oglądasz?
+Wiedźmina.
+
+Hej!
+Cześć.
+Jak życie?
+Byłem w Berlinie.
+I jak?
+Nowoczesne i pełne życia.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Bolta, wiozłem cię wczoraj.
+O, racja.
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Dobrze, ale chcę urlop.
+Dokąd?
+Do Lizbony.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Gamingowy?
+Tak, rakieta.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem angielskiego.
+Fajnie.
+Tak, ale dzieci wymagają.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Aten.
+Super.
+Tak, czekam już.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem buty Puma.
+Wygodne?
+Bardzo, polecam.
+Cześć!
+Hej.
+Jak się masz?
+W porządku, właśnie wróciłem z Budapesztu.
+I jak tam?
+Piękne miasto, dużo mostów i termy.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym menedżerem w dziale sprzedaży.
+Miło poznać.
+Wzajemnie.
+
+Hej!
+Siema.
+Jak leci?
+Spoko, kupiłem nowe buty Reebok.
+Ładne?
+Mega wygodne.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Mediolanu.
+Na wakacje?
+Tak, chcę zobaczyć Duomo.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Zmęczony, dzień pełen spotkań.
+Gdzie pracujesz?
+W firmie IT.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem po Warszawie.
+O, super.
+Tak, historia miasta jest fascynująca.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem Hondę.
+I jak?
+Bardzo wygodna i ekonomiczna.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, skończyłem projekt logo.
+Dla kogo?
+Dla małej kawiarni.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję kawę w Starbucks.
+A smak?
+Klasyczny, jak zawsze.
+
+Dzień dobry.
+Cześć.
+Jak leci?
+Super, zakończyłem projekt dla Volkswagena.
+Gratulacje!
+Dzięki.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem nowym kolegą w HR.
+Miło.
+Wzajemnie.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa HP.
+I jak działa?
+Szybko i stabilnie.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się C++.
+Trudne?
+Bardzo, ale satysfakcjonujące.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Byłem w Pradze.
+I jak?
+Piękne stare miasto.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, nowe buty Adidas.
+Ładne?
+Mega stylowe.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem sportowym.
+O, fajna praca.
+Tak, emocje non stop.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Javy.
+Do pracy?
+Tak, przydatna w IT.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem krajobrazu.
+Brzmi ciekawie.
+Tak, dużo zieleni w pracy.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję wyjazd do Lizbony.
+Super.
+Chcę spróbować portugalskiego jedzenia.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z restauracji.
+Aaa, pamiętam cię.
+Miło cię znów widzieć.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem nowego Samsunga.
+Zadowolony?
+Bardzo.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Ciężki dzień.
+Gdzie pracujesz?
+W Deloitte.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Jaki serial?
+The Crown.
+
+Hej!
+Cześć.
+Jak życie?
+Byłem w Monachium.
+I jak?
+Nowoczesne i uporządkowane.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię rano.
+O, tak!
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Dobrze, ale chcę odpocząć.
+Plany?
+Może Ateny.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Do gier?
+Tak, mocny sprzęt.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem matematyki.
+Trudne?
+Tak, ale daje satysfakcję.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Rzymu.
+Super.
+Tak, uwielbiam to miasto.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem buty Puma.
+Wygodne?
+Bardzo.
+Cześć!
+Hej.
+Jak się masz?
+Dobrze, właśnie wróciłem z Paryża.
+I jak?
+Wieża Eiffla robi wrażenie.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym analitykiem danych.
+O, ciekawe.
+Tak, dużo Excela :)
+
+Hej!
+Siema.
+Jak leci?
+Spoko, kupiłem buty Nike.
+Wygodne?
+Mega.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Barcelony.
+Na wakacje?
+Tak, marzę o plaży.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Trochę zmęczony po pracy.
+Gdzie pracujesz?
+W bankowości.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem w Lizbonie.
+Super!
+Tak, dużo turystów.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem Toyotę.
+Fajny wybór?
+Bardzo, ekonomiczna.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, skończyłem projekt UX.
+Dla kogo?
+Dla firmy IT.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję kawę w Starbucks.
+Dobra?
+Tak, klasyka.
+
+Dzień dobry.
+Cześć.
+Jak leci?
+Super, zakończyłem projekt dla Audi.
+Gratulacje.
+Dzięki.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem nowym kolegą z działu HR.
+Miło.
+Wzajemnie.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa Lenovo.
+Szybki?
+Tak, działa świetnie.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się Pythona.
+I jak?
+Bardzo logiczny.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Byłem w Rzymie.
+I jak?
+Pełno historii i turystów.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, nowe buty Adidas.
+Ładne?
+Bardzo.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem, piszę o podróżach.
+Super praca.
+Tak, ale męcząca.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Kotlina.
+Na Androida?
+Tak, dokładnie.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem.
+Trudna praca?
+Bywa stresująca.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję wyjazd do Wiednia.
+Super.
+Czekam z niecierpliwością.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z pubu na rynku.
+Aaa, pamiętam cię.
+Tak, miło znowu się widzieć.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem nowego iPhone’a.
+Drogi?
+Oj tak, ale warto.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Pracowity dzień.
+Gdzie pracujesz?
+W Google.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Co oglądasz?
+Breaking Bad.
+
+Hej!
+Cześć.
+Jak życie?
+Byłem w Berlinie.
+I jak?
+Nowoczesne, ale hałaśliwe.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię wczoraj.
+Aaa, racja.
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Chcę urlop.
+Dokąd?
+Do Aten.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Dobry?
+Mocny, do gier idealny.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem.
+I jak?
+Czasami trudno, ale daje satysfakcję.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Paryża.
+Super.
+Nie mogę się doczekać.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem buty Puma.
+I jak?
+Mega wygodne.
+Cześć!
+Hej.
+Jak się masz?
+Dobrze, właśnie wróciłem z Berlina.
+I jak miasto?
+Nowoczesne, ale trochę drogie.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym grafikiem w firmie.
+Miło poznać.
+Również.
+
+Hej!
+Siema.
+Jak leci?
+Spoko, kupiłem nowe buty Puma.
+Ładne?
+Mega wygodne.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Lizbony.
+Na wakacje?
+Tak, morze i słońce.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Trochę zmęczony, cały dzień w pracy.
+A gdzie pracujesz?
+W banku.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem po Krakowie.
+O, super.
+Tak, uwielbiam to miasto.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem nową Toyotę.
+Zadowolony?
+Bardzo.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, właśnie skończyłem projekt UX.
+Dla kogo?
+Dla aplikacji fintech.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję kawę w Starbucks.
+Dobra?
+Trochę droga, ale smaczna.
+
+Dzień dobry.
+Cześć.
+Jak leci?
+Super, zakończyłem projekt dla Audi.
+Gratulacje!
+Dzięki.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem nowym kolegą z IT.
+Na czym programujesz?
+Na Pythonie i Go.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa Dell.
+I jak?
+Szybki, działa świetnie.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się Javy.
+Podoba się?
+Nie zawsze, ale trzeba :)
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Byłem w Wiedniu.
+I jak?
+Spokojne i eleganckie.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, nowe buty Adidas.
+Fajne?
+Mega.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem, piszę o modzie.
+Ciekawe.
+Tak, dużo wydarzeń.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Swifta.
+Na iOS?
+Dokładnie.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem wnętrz.
+Brzmi ciekawie.
+Tak, kreatywne zajęcie.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję podróż do Barcelony.
+Super.
+Nie mogę się doczekać.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem w tym klubie.
+Aaa, to ty!
+Tak, dokładnie.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem iPhone’a.
+Nowy model?
+Tak, działa super.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Zabiegany dzień.
+Gdzie pracujesz?
+W Google.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Co oglądasz?
+Dom z papieru.
+
+Hej!
+Cześć.
+Jak życie?
+Byłem w Mediolanie.
+I jak?
+Moda wszędzie.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię ostatnio.
+Aaa, racja.
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Dobrze, ale potrzebuję urlopu.
+Dokąd?
+Do Aten.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Gaming?
+Tak, mocny sprzęt.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem angielskiego.
+Fajnie.
+Tak, dzieciaki dają energię.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Paryża.
+Super.
+Tak, już się cieszę.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem nowe buty Reebok.
+I jak?
+Wygodne i lekkie.
+Cześć!
+Hej.
+Jak się masz?
+W porządku, właśnie wróciłem z Lizbony.
+I jak było?
+Słońce, plaża i świetne jedzenie.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym menedżerem projektu.
+Miło poznać.
+Wzajemnie.
+
+Hej!
+Siema.
+Jak leci?
+Spoko, kupiłem nowe Nike.
+Ładne?
+Mega wygodne.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Aten.
+Na wakacje?
+Tak, chcę trochę słońca.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Zmęczony po pracy.
+Gdzie pracujesz?
+W Microsoft.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem w Krakowie.
+Super.
+Tak, kocham pokazywać miasto.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem Toyotę.
+I jak się prowadzi?
+Bardzo dobrze.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, skończyłem projekt graficzny.
+Dla kogo?
+Dla start-upu z Warszawy.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję kawę w Starbucks.
+Smaczna?
+Droga, ale dobra.
+
+Dzień dobry.
+Cześć.
+Jak leci?
+Super, zakończyłem projekt dla BMW.
+Gratulacje!
+Dzięki.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem nowym kolegą z działu IT.
+Na czym programujesz?
+Na Pythonie i Javie.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa Lenovo.
+Szybki?
+Bardzo.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się Kotlina.
+Na Androida?
+Tak, dokładnie.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Byłem w Wiedniu.
+I jak?
+Piękne miasto, spokojne.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem buty Adidas.
+Fajne?
+Mega wygodne.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem, piszę o technologii.
+O, ciekawe.
+Tak, dużo pracy.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Swifta.
+Na iOS?
+Dokładnie.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem.
+Dużo stresu?
+Czasami.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję wyjazd do Barcelony.
+Zazdroszczę.
+Ja też sobie :)
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z pubu.
+O, pamiętam cię.
+Tak, miło znowu widzieć.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem nowego iPhone’a.
+Drogi?
+Tak, ale warto.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Pracowity dzień, same spotkania.
+Gdzie pracujesz?
+W Google.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Jaki serial?
+Stranger Things.
+
+Hej!
+Cześć.
+Jak życie?
+Byłem w Berlinie.
+I jak?
+Nowoczesne, ale drogie.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię wczoraj.
+O, racja!
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Chcę urlop.
+Dokąd?
+Do Rzymu.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Mocny?
+Idealny do gier.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem.
+Lubię to?
+Tak, choć bywa ciężko.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Paryża.
+Super.
+Tak, czekam z niecierpliwością.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem buty Puma.
+Wygodne?
+Bardzo.
+
+Cześć!
+Hej.
+Jak się masz?
+Dobrze, właśnie wróciłem z Barcelony.
+Jak było?
+Słońce i tapas, super.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym prawnikiem w firmie.
+O, witaj.
+Dzięki, miło poznać.
+
+Hej!
+Siema.
+Jak leci?
+Spoko, kupiłem nowe buty Nike.
+Fajne?
+Mega wygodne.
+
+Cześć!
+Hej.
+Co robisz?
+Szukam biletów do Rzymu.
+Na wakacje?
+Tak, w końcu urlop.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Trochę zmęczony, dużo pracy.
+Gdzie pracujesz?
+W banku.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem przewodnikiem po Paryżu.
+O, super.
+Tak, kocham to miasto.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem Toyotę.
+Dobra?
+Bardzo niezawodna.
+
+Cześć!
+Hej.
+Jak humor?
+Ok, właśnie skończyłem projekt graficzny.
+Dla kogo?
+Dla start-upu.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, piję kawę ze Starbucks.
+Smaczna?
+Tak, ale droga.
+
+Dzień dobry.
+Hej.
+Jak leci?
+Super, zakończyłem projekt dla BMW.
+Gratulacje!
+Dzięki.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem twoim nowym kolegą z IT.
+Na czym programujesz?
+Na Pythonie.
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa Lenovo.
+I jak?
+Szybki, polecam.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się Javy.
+Trudna?
+Trochę, ale ważna.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Spoko, byłem w Wiedniu.
+I jak?
+Piękne miasto.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, nowe buty Adidas.
+Ładne?
+Bardzo.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem, piszę o podróżach.
+Super.
+Tak, dużo zwiedzam.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Kotlina.
+Na Androida?
+Dokładnie.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem.
+Trudne?
+Bywa, ale lubię.
+
+Cześć!
+Hej.
+Jak się masz?
+Ok, planuję wyjazd do Barcelony.
+Super!
+Nie mogę się doczekać.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z klubu.
+Aaa, pamiętam!
+Miło znowu cię widzieć.
+
+Cześć!
+Hej.
+Jak humor?
+Świetny, kupiłem nowego iPhone’a.
+Drogi?
+Tak, ale warto.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Pracowity dzień, same spotkania.
+Gdzie pracujesz?
+W Google.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Jaki serial?
+Wiedźmin.
+
+Hej!
+Cześć.
+Jak życie?
+Fajnie, byłem w Berlinie.
+I jak?
+Nowoczesne, ale drogie.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię wczoraj.
+Aaa, racja.
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Dobrze, ale chcę urlop.
+Gdzie?
+Do Mediolanu.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI.
+Dobry?
+Mocny, do gier idealny.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem.
+Trudne?
+Czasem, ale satysfakcjonujące.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Paryża.
+Super.
+Tak, czekam z niecierpliwością.
+
+Hej!
+Hej.
+Jak się masz?
+Ok, kupiłem buty Puma.
+I jak?
+Mega wygodne.
+Cześć!
+Hej.
+Jak się masz?
+Dobrze, właśnie wróciłem z Rzymu.
+I jak było?
+Pięknie, ale drogo.
+
+Dzień dobry.
+Dzień dobry.
+Kim jesteś?
+Jestem nowym projektantem w firmie.
+O, miło poznać.
+Wzajemnie.
+
+Cześć!
+Siema!
+Jak leci?
+Spoko, kupiłem nowe buty Adidas.
+Wygodne?
+Mega wygodne.
+
+Hej!
+Hej.
+Co robisz?
+Szukam biletów do Barcelony.
+Na wakacje?
+Tak, wreszcie odpoczynek.
+
+Dzień dobry.
+Cześć.
+Jak się masz?
+Trochę zmęczony po pracy.
+Gdzie pracujesz?
+Jestem prawnikiem.
+
+Cześć!
+Cześć.
+Kim jesteś?
+Jestem przewodnikiem po Atenach.
+O, super.
+Tak, kocham to miasto.
+
+Hej!
+Hej.
+Jak się masz?
+Świetnie, kupiłem Toyotę.
+Fajny samochód?
+Tak, bardzo solidny.
+
+Dzień dobry.
+Hej.
+Jak się czujesz?
+Dobrze, właśnie skończyłem projekt graficzny.
+Dla kogo?
+Dla lokalnego start-upu.
+
+Cześć!
+Hej.
+Jak humor?
+W porządku, piję kawę ze Starbucks.
+Smaczna?
+Tak, ale droga.
+
+Dobry wieczór.
+Cześć.
+Jak się masz?
+Świetnie, zakończyłem projekt dla BMW.
+Wow!
+Jestem dumny.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem twoim nowym kolegą z marketingu.
+O, witaj.
+Dzięki!
+
+Hej!
+Hej.
+Jak się masz?
+Dobrze, kupiłem laptopa Lenovo.
+Szybki?
+Bardzo szybki.
+
+Cześć!
+Siema.
+Co tam?
+Uczę się Pythona.
+Podoba ci się?
+Tak, logiczny język.
+
+Dzień dobry.
+Cześć.
+Jak życie?
+Fajnie, wróciłem z Wiednia.
+I jak?
+Spokojne miasto.
+
+Cześć!
+Hej.
+Jak się masz?
+Super, nowe buty Nike.
+Stylowe?
+Bardzo.
+
+Hej!
+Hej.
+Kim jesteś?
+Jestem dziennikarzem, piszę o podróżach.
+Ciekawe.
+Tak, dużo zwiedzam.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, uczę się Kotlina.
+Trudny?
+Trochę, ale warto.
+
+Dzień dobry.
+Hej.
+Czym się zajmujesz?
+Jestem architektem.
+Brzmi poważnie.
+Bywa stresujące.
+
+Cześć!
+Hej.
+Jak się masz?
+W porządku, planuję podróż do Barcelony.
+Super!
+Nie mogę się doczekać.
+
+Dobry wieczór.
+Cześć.
+Kim jesteś?
+Jestem barmanem z klubu.
+Aaa, pamiętam!
+Miło znowu cię widzieć.
+
+Cześć!
+Hej.
+Jak humor?
+Dobrze, kupiłem nowego iPhone’a.
+Drogi?
+Tak, ale świetny.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+Zapracowany, same spotkania.
+Gdzie pracujesz?
+W Google.
+
+Cześć!
+Hej.
+Co robisz?
+Oglądam Netflix.
+Jaki serial?
+Dom z papieru.
+
+Hej!
+Cześć.
+Jak życie?
+Fajnie, byłem w Berlinie.
+I jak wrażenia?
+Nowoczesne, ale drogie.
+
+Cześć!
+Hej.
+Kim jesteś?
+Jestem kierowcą Ubera, wiozłem cię wczoraj.
+O, racja.
+Świat jest mały.
+
+Dzień dobry.
+Hej.
+Jak się masz?
+W porządku, ale chcę urlop.
+Gdzie?
+Do Mediolanu.
+
+Cześć!
+Hej.
+Jak się masz?
+Świetnie, kupiłem laptopa MSI do gier.
+Mocny?
+Bardzo.
+
+Hej!
+Hej.
+Czym się zajmujesz?
+Jestem nauczycielem.
+Trudne?
+Czasami, ale lubię to.
+
+Cześć!
+Hej.
+Jak leci?
+Dobrze, kupiłem bilety do Paryża.
+Super.
+Tak, nie mogę się doczekać.
+
+Hej!
+Hej.
+Jak się masz?
+W porządku, kupiłem buty Puma.
+Wygodne?
+Tak, bardzo.

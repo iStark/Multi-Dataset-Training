@@ -1,0 +1,839 @@
+Hallo!
+Hallo.
+Wie geht’s dir?
+Gut, ich komme gerade aus Berlin zurück.
+Und wie war es?
+Sehr modern, aber teuer.
+
+Guten Morgen.
+Guten Morgen.
+Wer bist du?
+Ich bin der neue Projektmanager.
+Freut mich.
+Mich auch.
+
+Hi!
+Hey!
+Wie läuft’s?
+Ganz okay, ich habe neue Adidas-Schuhe gekauft.
+Bequem?
+Sehr bequem.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Ein bisschen müde, viele Meetings.
+Wo arbeitest du?
+Bei Microsoft.
+
+Hallo.
+Hallo.
+Was machst du?
+Ich suche Flüge nach Rom.
+Urlaub?
+Ja, endlich.
+
+Guten Tag.
+Guten Tag.
+Wer bist du?
+Ich bin Fotograf aus München.
+Interessant!
+Ja, ich liebe meinen Job.
+
+Hi!
+Hallo.
+Wie geht’s?
+Gut, ich habe einen Toyota gekauft.
+Zufrieden?
+Sehr.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Super, ich habe ein Designprojekt abgeschlossen.
+Für wen?
+Für ein Start-up.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Entspannt, ich trinke einen Kaffee bei Starbucks.
+Schmeckt’s?
+Sehr gut.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Perfekt, ich habe ein Projekt für BMW beendet.
+Glückwunsch!
+Danke.
+
+Hi!
+Hallo.
+Wer bist du?
+Ich bin dein neuer Kollege im Marketing.
+Oh, willkommen.
+Danke!
+
+Hallo.
+Hallo.
+Wie geht’s?
+Gut, ich habe einen Lenovo-Laptop gekauft.
+Schnell?
+Ja, sehr.
+
+Hi!
+Hallo.
+Was gibt’s Neues?
+Ich lerne gerade Python.
+Gefällt’s dir?
+Ja, sehr logisch.
+
+Guten Tag.
+Hallo.
+Wie läuft das Leben?
+Gut, ich war in Wien.
+Und?
+Schöne, ruhige Stadt.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Super, neue Nike-Schuhe.
+Cool?
+Sehr stylisch.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Journalist für Reisen.
+Interessant!
+Ja, ich reise viel.
+
+Hallo.
+Hallo.
+Wie geht es dir?
+Gut, ich lerne Kotlin.
+Schwierig?
+Ein bisschen, aber spannend.
+
+Hi!
+Hallo.
+Was machst du beruflich?
+Ich bin Architekt.
+Toll!
+Ja, aber manchmal stressig.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, ich plane eine Reise nach Barcelona.
+Schön!
+Ja, ich freue mich.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Barkeeper in dieser Bar.
+Ah, stimmt!
+Freut mich, dich wiederzusehen.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Sehr gut, ich habe ein iPhone gekauft.
+Das Neue?
+Ja, super Kamera.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Viel Arbeit heute.
+Wo arbeitest du?
+Bei Google.
+
+Hallo.
+Hallo.
+Was gibt’s Neues?
+Ich schaue Netflix.
+Welche Serie?
+Haus des Geldes.
+
+Guten Abend.
+Hallo.
+Wie läuft das Leben?
+Gut, ich komme aus Berlin zurück.
+Wie war es?
+Modern und laut.
+
+Hallo!
+Hallo.
+Wer bist du?
+Ich bin dein Uber-Fahrer von gestern.
+Ach ja!
+Die Welt ist klein.
+
+Guten Tag.
+Hallo.
+Wie geht’s dir?
+Gut, aber ich brauche Urlaub.
+Wohin?
+Nach Lissabon.
+
+Hallo!
+Hallo.
+Wie geht es dir?
+Super, ich habe ein MSI-Gaming-Laptop gekauft.
+Leistungsstark?
+Sehr!
+
+Guten Abend.
+Hallo.
+Was machst du?
+Ich bin Lehrer.
+Anstrengend?
+Manchmal, aber schön.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, ich habe Tickets nach Athen gebucht.
+Toll!
+Ja, ich freue mich.
+
+Guten Morgen.
+Hallo.
+Wie geht’s dir?
+Gut, ich habe Puma-Schuhe gekauft.
+Bequem?
+Sehr.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Sehr gut, ich war gerade in Hamburg.
+Und?
+Tolle Stadt am Wasser.
+
+Guten Morgen.
+Guten Morgen.
+Wer bist du?
+Ich bin der neue Softwareentwickler.
+Ah, willkommen!
+Danke, freut mich.
+
+Hi!
+Hey!
+Wie läuft’s?
+Ganz okay, habe neue Puma-Schuhe gekauft.
+Bequem?
+Ja, super.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Müde, ich hatte einen langen Arbeitstag.
+Was machst du beruflich?
+Ich bin Anwalt.
+
+Hallo.
+Hallo.
+Was machst du?
+Ich suche Flüge nach Wien.
+Urlaub?
+Ja, ein Kurztrip.
+
+Guten Tag.
+Hallo.
+Wer bist du?
+Ich bin Fotograf aus Köln.
+Interessant!
+Ja, viele Hochzeiten.
+
+Hi!
+Hallo.
+Wie geht’s?
+Gut, ich habe einen Ford gekauft.
+Zufrieden?
+Sehr.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Super, ein neues Design fertiggestellt.
+Für wen?
+Eine kleine Firma.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Gut, ich trinke Starbucks-Kaffee.
+Schmeckt?
+Klar, aber teuer.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Perfekt, Projekt für Audi beendet.
+Gratuliere!
+Danke sehr.
+
+Hi!
+Hallo.
+Wer bist du?
+Ich bin dein neuer Kollege in der IT.
+Freut mich.
+Mich auch.
+
+Hallo.
+Hallo.
+Wie geht’s?
+Gut, ich habe einen Dell-Laptop gekauft.
+Schnell?
+Ja, zufrieden.
+
+Hi!
+Hallo.
+Was gibt’s Neues?
+Ich lerne Java.
+Schwierig?
+Ja, ein bisschen.
+
+Guten Tag.
+Hallo.
+Wie läuft das Leben?
+Gut, ich war in Prag.
+Wie war es?
+Sehr schön.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Super, neue Adidas.
+Stylisch?
+Total.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Journalist.
+Über was schreibst du?
+Politik und Reisen.
+
+Hallo.
+Hallo.
+Wie geht es dir?
+Gut, ich lerne Swift.
+Interessant?
+Ja, für iOS-Apps.
+
+Hi!
+Hallo.
+Was machst du beruflich?
+Ich bin Architekt.
+Cool!
+Ja, kreativ.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, ich plane eine Reise nach Mailand.
+Toll!
+Ja, freue mich.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Barkeeper im Hotel.
+Oh ja!
+Wir haben uns gestern gesehen.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Sehr gut, ich habe ein Samsung Galaxy gekauft.
+Gefällt’s dir?
+Ja, sehr schnell.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Viel Arbeit.
+Wo arbeitest du?
+Bei Deloitte.
+
+Hallo.
+Hallo.
+Was gibt’s Neues?
+Ich schaue Netflix.
+Welche Serie?
+Dark.
+
+Guten Abend.
+Hallo.
+Wie läuft das Leben?
+Gut, gerade aus Berlin zurück.
+Und?
+Viele Leute, viel Verkehr.
+
+Hallo!
+Hallo.
+Wer bist du?
+Ich bin dein Uber-Fahrer von gestern Abend.
+Ach stimmt!
+Kleine Welt.
+
+Guten Tag.
+Hallo.
+Wie geht’s dir?
+Gut, aber urlaubsreif.
+Wohin?
+Nach Rom.
+
+Hallo!
+Hallo.
+Wie geht es dir?
+Super, MSI-Laptop gekauft.
+Stark?
+Ja, Gaming-Maschine.
+
+Guten Abend.
+Hallo.
+Was machst du?
+Ich bin Lehrer.
+Schwierig?
+Manchmal, aber schön.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, Tickets nach Paris gekauft.
+Schön!
+Ja, ich freue mich.
+
+Guten Morgen.
+Hallo.
+Wie geht’s dir?
+Gut, ich habe Reebok-Schuhe gekauft.
+Und?
+Sehr leicht und bequem.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Sehr gut, ich war in München.
+Und?
+Tolle Stadt, viel Bier.
+
+Guten Morgen.
+Guten Morgen.
+Wer bist du?
+Ich bin der neue Marketing-Manager.
+Freut mich.
+Danke, ebenso.
+
+Hi!
+Hey!
+Wie läuft’s?
+Ganz okay, habe neue Nike-Schuhe gekauft.
+Cool?
+Ja, sehr bequem.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Müde, langer Arbeitstag.
+Was machst du?
+Ich bin Lehrer.
+
+Hallo.
+Hallo.
+Was machst du?
+Ich suche Flüge nach Barcelona.
+Urlaub?
+Ja, endlich Sonne.
+
+Guten Tag.
+Hallo.
+Wer bist du?
+Ich bin Fotograf aus Hamburg.
+Interessant!
+Ja, viele Events.
+
+Hi!
+Hallo.
+Wie geht’s?
+Gut, ich habe einen Opel gekauft.
+Zufrieden?
+Ja, läuft super.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Super, neues Design-Projekt fertig.
+Für wen?
+Für ein Start-up.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Gut, ich trinke Starbucks-Kaffee.
+Schmeckt?
+Sehr gut, aber teuer.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Perfekt, Projekt für Mercedes abgeschlossen.
+Glückwunsch!
+Danke schön.
+
+Hi!
+Hallo.
+Wer bist du?
+Ich bin dein neuer Kollege in HR.
+Willkommen!
+Danke.
+
+Hallo.
+Hallo.
+Wie geht’s?
+Gut, ich habe einen HP-Laptop gekauft.
+Schnell?
+Ja, solide.
+
+Hi!
+Hallo.
+Was gibt’s Neues?
+Ich lerne C++.
+Schwierig?
+Sehr, aber spannend.
+
+Guten Tag.
+Hallo.
+Wie läuft das Leben?
+Gut, ich war in Wien.
+Und?
+Sehr ruhig.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Super, neue Adidas.
+Stylisch?
+Ja, perfekt.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Journalist.
+Über was?
+Reisen und Kultur.
+
+Hallo.
+Hallo.
+Wie geht es dir?
+Gut, ich lerne Kotlin.
+Interessant?
+Ja, macht Spaß.
+
+Hi!
+Hallo.
+Was machst du beruflich?
+Ich bin Architekt.
+Kreativ?
+Sehr.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, Reise nach Rom geplant.
+Freust du dich?
+Ja, sehr.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Barkeeper in diesem Club.
+Oh ja!
+Wir haben uns gestern gesehen.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Sehr gut, ich habe ein iPhone gekauft.
+Das neue?
+Ja, großartig.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Viel Arbeit.
+Wo arbeitest du?
+Bei Google.
+
+Hallo.
+Hallo.
+Was gibt’s Neues?
+Ich schaue Netflix.
+Welche Serie?
+How to Sell Drugs Online (Fast).
+
+Guten Abend.
+Hallo.
+Wie läuft das Leben?
+Gut, gerade aus Berlin zurück.
+Und?
+Modern, laut.
+
+Hallo!
+Hallo.
+Wer bist du?
+Ich bin dein Uber-Fahrer von gestern.
+Ach so!
+Kleine Welt.
+
+Guten Tag.
+Hallo.
+Wie geht’s dir?
+Gut, brauche aber Urlaub.
+Wohin?
+Nach Prag.
+
+Hallo!
+Hallo.
+Wie geht es dir?
+Super, ich habe einen MSI gekauft.
+Gaming?
+Ja, stark.
+
+Guten Abend.
+Hallo.
+Was machst du?
+Ich bin Professor.
+Anstrengend?
+Ja, aber schön.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, Tickets nach Paris gekauft.
+Freust du dich?
+Ja, total.
+
+Guten Morgen.
+Hallo.
+Wie geht’s dir?
+Gut, ich habe Puma-Schuhe gekauft.
+Und?
+Sehr bequem.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Gut, ich komme gerade aus Frankfurt zurück.
+Und?
+Sehr moderne Stadt.
+
+Guten Morgen.
+Guten Morgen.
+Wer bist du?
+Ich bin der neue Designer im Team.
+Willkommen!
+Danke schön.
+
+Hi!
+Hey!
+Wie läuft’s?
+Ganz gut, habe neue Puma-Schuhe gekauft.
+Bequem?
+Sehr, ich liebe sie.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Müde, lange gearbeitet.
+Was machst du?
+Ich bin Ingenieur.
+
+Hallo.
+Hallo.
+Was machst du?
+Ich suche Flüge nach Madrid.
+Urlaub?
+Ja, endlich frei.
+
+Guten Tag.
+Hallo.
+Wer bist du?
+Ich bin Fotograf aus Berlin.
+Interessant!
+Ja, viele Aufträge.
+
+Hi!
+Hallo.
+Wie geht’s?
+Gut, ich habe einen VW gekauft.
+Zufrieden?
+Sehr.
+
+Guten Abend.
+Hallo.
+Wie geht es dir?
+Super, ein Projekt beendet.
+Für wen?
+Für ein Startup aus München.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Gut, trinke gerade einen Latte bei Starbucks.
+Schmeckt?
+Sehr lecker.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Perfekt, Projekt für Audi fertig.
+Toll!
+Danke sehr.
+
+Hi!
+Hallo.
+Wer bist du?
+Ich bin dein neuer Kollege im Vertrieb.
+Freut mich.
+Mich auch.
+
+Hallo.
+Hallo.
+Wie geht’s?
+Gut, ich habe einen Lenovo-Laptop gekauft.
+Und?
+Sehr schnell.
+
+Hi!
+Hallo.
+Was gibt’s Neues?
+Ich lerne JavaScript.
+Nützlich?
+Ja, fürs Web.
+
+Guten Tag.
+Hallo.
+Wie läuft das Leben?
+Gut, war in Wien.
+Wie war’s?
+Sehr schön und ruhig.
+
+Hallo!
+Hallo.
+Wie geht’s dir?
+Super, neue Adidas gekauft.
+Stylisch?
+Ja, perfekt.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Journalist aus Hamburg.
+Über was schreibst du?
+Kultur und Reisen.
+
+Hallo.
+Hallo.
+Wie geht es dir?
+Gut, ich lerne Swift.
+Schwierig?
+Nein, geht.
+
+Hi!
+Hallo.
+Was machst du beruflich?
+Ich bin Architekt.
+Kreativ?
+Sehr, aber stressig.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, plane eine Reise nach Lissabon.
+Urlaub?
+Ja, ich freue mich schon.
+
+Guten Abend.
+Hallo.
+Wer bist du?
+Ich bin Barkeeper im Hotel.
+Ach ja!
+Wir haben uns gesehen.
+
+Hallo!
+Hallo.
+Wie ist deine Laune?
+Sehr gut, habe ein neues iPhone gekauft.
+Das neueste?
+Ja, super Kamera.
+
+Guten Morgen.
+Hallo.
+Wie geht es dir?
+Viel Arbeit heute.
+Wo arbeitest du?
+Bei Google.
+
+Hallo.
+Hallo.
+Was gibt’s Neues?
+Ich schaue Netflix.
+Welche Serie?
+Dark.
+
+Guten Abend.
+Hallo.
+Wie läuft das Leben?
+Gut, komme aus Berlin zurück.
+Und?
+Sehr lebendig.
+
+Hallo!
+Hallo.
+Wer bist du?
+Ich bin dein Uber-Fahrer von gestern.
+Ah ja!
+Stimmt.
+
+Guten Tag.
+Hallo.
+Wie geht’s dir?
+Gut, brauche Urlaub.
+Wohin?
+Nach Rom.
+
+Hallo!
+Hallo.
+Wie geht es dir?
+Super, habe einen MSI gekauft.
+Gaming?
+Ja, starkes Gerät.
+
+Guten Abend.
+Hallo.
+Was machst du?
+Ich bin Lehrer.
+Anstrengend?
+Ja, aber schön.
+
+Hallo!
+Hallo.
+Wie geht’s?
+Gut, habe Tickets nach Prag gebucht.
+Freust du dich?
+Sehr.
+
+Guten Morgen.
+Hallo.
+Wie geht’s dir?
+Gut, neue Nike-Schuhe gekauft.
+Bequem?
+Sehr.

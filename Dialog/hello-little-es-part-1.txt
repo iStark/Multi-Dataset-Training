@@ -1,0 +1,839 @@
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, acabo de volver de Madrid.
+¿Y qué tal?
+Una ciudad hermosa pero cara.
+
+Buenos días.
+Buenos días.
+¿Quién eres?
+Soy el nuevo gerente de proyectos.
+Encantado.
+Encantado igualmente.
+
+¡Ey!
+¡Hola!
+¿Cómo va?
+Bien, me compré unas zapatillas Nike.
+¿Cómodas?
+Sí, mucho.
+
+Buenas noches.
+Hola.
+¿Cómo estás?
+Un poco cansado, muchas reuniones hoy.
+¿Dónde trabajas?
+En Microsoft.
+
+Hola.
+Hola.
+¿Qué haces?
+Estoy buscando vuelos a Roma.
+¿Vacaciones?
+Sí, por fin.
+
+Buenos días.
+Hola.
+¿Quién eres?
+Soy fotógrafo en Barcelona.
+¡Qué interesante!
+Sí, me encanta.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, compré un coche Toyota.
+¿Y funciona bien?
+Sí, muy fiable.
+
+Buenas noches.
+Hola.
+¿Cómo te va?
+Genial, terminé un proyecto de diseño.
+¿Para quién?
+Para una start-up local.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Tranquilo, tomando un café en Starbucks.
+¿Está bueno?
+Muy rico.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Perfecto, terminé un proyecto para BMW.
+¡Felicidades!
+Gracias.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu nuevo compañero en marketing.
+Bienvenido.
+Gracias.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré una laptop Lenovo.
+¿Rápida?
+Sí, mucho.
+
+Hola.
+Hola.
+¿Qué hay de nuevo?
+Estoy aprendiendo Python.
+¿Te gusta?
+Sí, muy lógico.
+
+Buenos días.
+Hola.
+¿Cómo va la vida?
+Bien, estuve en Viena.
+¿Y qué tal?
+Una ciudad tranquila.
+
+Hola.
+Hola.
+¿Cómo estás?
+Genial, nuevas zapatillas Adidas.
+¿Bonitas?
+Sí, mucho.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy periodista de viajes.
+¡Qué bien!
+Sí, viajo mucho.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, estoy aprendiendo Kotlin.
+¿Es difícil?
+Un poco, pero útil.
+
+Buenos días.
+Hola.
+¿A qué te dedicas?
+Soy arquitecto.
+Interesante.
+Sí, creativo pero estresante.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, planeando un viaje a Barcelona.
+Qué suerte.
+Sí, no puedo esperar.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy camarero en este bar.
+Ah sí.
+Sí, nos vimos ayer.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Contento, compré un iPhone.
+¿El nuevo?
+Sí, excelente.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Día ocupado.
+¿Dónde trabajas?
+En Google.
+
+Hola.
+Hola.
+¿Qué haces?
+Miro Netflix.
+¿Qué serie?
+La Casa de Papel.
+
+Buenas noches.
+Hola.
+¿Cómo va la vida?
+Bien, volví de Berlín.
+¿Y cómo fue?
+Muy moderna.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu conductor de Uber de ayer.
+Ah sí.
+El mundo es pequeño.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, pero necesito vacaciones.
+¿Dónde?
+En Lisboa.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, compré un portátil MSI.
+¿Para jugar?
+Sí, muy potente.
+
+Buenas noches.
+Hola.
+¿Qué haces?
+Soy profesor.
+¿Difícil?
+A veces, pero me gusta.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, compré boletos para Atenas.
+Genial.
+Sí, estoy feliz.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, me compré zapatillas Puma.
+¿Cómodas?
+Sí, mucho.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, acabo de volver de Sevilla.
+¿Y qué tal?
+Ciudad cálida y llena de vida.
+
+Buenos días.
+Buenos días.
+¿Quién eres?
+Soy el nuevo desarrollador del equipo.
+Encantado.
+El gusto es mío.
+
+¡Ey!
+¡Hola!
+¿Cómo va?
+Todo bien, me compré unas zapatillas Adidas.
+¿Bonitas?
+Sí, muy cómodas.
+
+Buenas noches.
+Hola.
+¿Cómo estás?
+Un poco cansado, fue un día largo.
+¿Dónde trabajas?
+En un banco.
+
+Hola.
+Hola.
+¿Qué haces?
+Buscando vuelos a Barcelona.
+¿Vacaciones?
+Sí, necesito descansar.
+
+Buenos días.
+Hola.
+¿Quién eres?
+Soy fotógrafo en Madrid.
+¡Qué interesante!
+Sí, me encanta mi trabajo.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, compré un coche Honda.
+¿Contento?
+Sí, muy práctico.
+
+Buenas noches.
+Hola.
+¿Cómo te va?
+Genial, terminé un proyecto gráfico.
+¿Para quién?
+Para una empresa local.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Tranquilo, tomando un café en Starbucks.
+¿Está bueno?
+Sí, siempre.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Perfecto, cerré un proyecto con Mercedes.
+¡Felicidades!
+Gracias.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu nuevo compañero en finanzas.
+Bienvenido.
+Gracias.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré un portátil Dell.
+¿Rápido?
+Sí, funciona muy bien.
+
+Hola.
+Hola.
+¿Qué hay de nuevo?
+Estoy estudiando Java.
+¿Difícil?
+Un poco, pero útil.
+
+Buenos días.
+Hola.
+¿Cómo va la vida?
+Bien, estuve en Viena.
+¿Y?
+Muy tranquila.
+
+Hola.
+Hola.
+¿Cómo estás?
+Genial, me compré zapatillas Puma.
+¿Cómodas?
+Sí, mucho.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy periodista deportivo.
+¡Qué bien!
+Sí, viajo mucho.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, estoy aprendiendo Swift.
+¿Para iOS?
+Exacto.
+
+Buenos días.
+Hola.
+¿A qué te dedicas?
+Soy arquitecto de interiores.
+Interesante.
+Sí, muy creativo.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, estoy organizando un viaje a Roma.
+¡Qué suerte!
+Sí, no veo la hora.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy camarero en un hotel.
+Ah sí.
+Sí, nos vimos ayer.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Contento, compré un Samsung Galaxy.
+¿Nuevo?
+Sí, muy rápido.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Día lleno de trabajo.
+¿Dónde trabajas?
+En Deloitte.
+
+Hola.
+Hola.
+¿Qué haces?
+Miro Netflix.
+¿Qué serie?
+Stranger Things.
+
+Buenas noches.
+Hola.
+¿Cómo va la vida?
+Bien, regresé de Berlín.
+¿Y cómo fue?
+Muy moderna y cara.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu conductor de Uber de ayer.
+Ah sí.
+El mundo es pequeño.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, pero necesito vacaciones.
+¿Adónde?
+A Lisboa.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, compré un MSI.
+¿Potente?
+Sí, ideal para gaming.
+
+Buenas noches.
+Hola.
+¿Qué haces?
+Soy profesor de historia.
+¿Te gusta?
+Sí, mucho.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, tengo boletos para París.
+¡Genial!
+Sí, estoy feliz.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré zapatillas Reebok.
+¿Cómodas?
+Sí, ligeras.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, acabo de volver de Valencia.
+¿Y qué tal?
+Mucho sol y buena comida.
+
+Buenos días.
+Buenos días.
+¿Quién eres?
+Soy el nuevo analista de datos.
+Encantado.
+Encantado igualmente.
+
+¡Ey!
+¡Hola!
+¿Cómo va?
+Todo bien, me compré unas zapatillas Reebok.
+¿Cómodas?
+Sí, muy ligeras.
+
+Buenas noches.
+Hola.
+¿Cómo estás?
+Cansado, demasiadas reuniones.
+¿Dónde trabajas?
+En Microsoft.
+
+Hola.
+Hola.
+¿Qué haces?
+Estoy buscando vuelos a Lisboa.
+¿Vacaciones?
+Sí, unos días de descanso.
+
+Buenos días.
+Hola.
+¿Quién eres?
+Soy fotógrafo en Sevilla.
+¡Qué interesante!
+Sí, muchas bodas.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, compré un coche Mazda.
+¿Contento?
+Sí, económico y práctico.
+
+Buenas noches.
+Hola.
+¿Cómo te va?
+Genial, terminé un proyecto web.
+¿Para quién?
+Para una tienda online.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Tranquilo, tomando un latte en Starbucks.
+¿Está rico?
+Sí, mucho.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Perfecto, entregué un proyecto a Audi.
+¡Enhorabuena!
+Gracias.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu nuevo compañero en recursos humanos.
+Bienvenido.
+Gracias.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré un portátil HP.
+¿Va rápido?
+Sí, funciona bien.
+
+Hola.
+Hola.
+¿Qué hay de nuevo?
+Estoy aprendiendo Kotlin.
+¿Fácil?
+No mucho, pero interesante.
+
+Buenos días.
+Hola.
+¿Cómo va la vida?
+Bien, estuve en Viena.
+¿Y cómo fue?
+Muy elegante.
+
+Hola.
+Hola.
+¿Cómo estás?
+Genial, me compré Adidas.
+¿Bonitas?
+Sí, perfectas.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy periodista cultural.
+¡Qué bien!
+Sí, siempre hay eventos.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, estudiando Swift.
+¿Para apps?
+Sí, para iOS.
+
+Buenos días.
+Hola.
+¿A qué te dedicas?
+Soy arquitecto.
+¿Creativo?
+Sí, mucho.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, planeando un viaje a Praga.
+¡Qué suerte!
+Sí, estoy emocionado.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy camarero en este café.
+Ah sí.
+Sí, nos vimos ayer.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Contento, compré un iPhone.
+¿El último?
+Sí, la cámara es increíble.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Día complicado.
+¿Dónde trabajas?
+En Google.
+
+Hola.
+Hola.
+¿Qué haces?
+Estoy mirando Netflix.
+¿Qué serie?
+Élite.
+
+Buenas noches.
+Hola.
+¿Cómo va la vida?
+Bien, regresé de Berlín.
+¿Y cómo fue?
+Muy moderna y animada.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu chofer de Uber de ayer.
+Ah sí.
+Sí, qué casualidad.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, pero necesito vacaciones.
+¿Adónde?
+A Roma.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, compré un portátil MSI.
+¿Potente?
+Sí, excelente para juegos.
+
+Buenas noches.
+Hola.
+¿Qué haces?
+Soy profesor de matemáticas.
+¿Difícil?
+A veces, pero gratificante.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, tengo boletos para Barcelona.
+¡Genial!
+Sí, estoy feliz.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré zapatillas Puma.
+¿Cómodas?
+Sí, perfectas.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, acabo de volver de Bilbao.
+¿Y qué tal?
+Una ciudad tranquila y bonita.
+
+Buenos días.
+Buenos días.
+¿Quién eres?
+Soy el nuevo programador del equipo.
+Encantado.
+Igualmente.
+
+¡Ey!
+¡Hola!
+¿Cómo va?
+Bien, me compré unas zapatillas Puma.
+¿Cómodas?
+Sí, perfectas para correr.
+
+Buenas noches.
+Hola.
+¿Cómo estás?
+Un poco cansado, mucho trabajo.
+¿Dónde trabajas?
+En Deloitte.
+
+Hola.
+Hola.
+¿Qué haces?
+Buscando vuelos a París.
+¿Vacaciones?
+Sí, solo un fin de semana.
+
+Buenos días.
+Hola.
+¿Quién eres?
+Soy fotógrafo de bodas.
+¡Qué bonito!
+Sí, pero estresante.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, compré un coche Ford.
+¿Contento?
+Sí, va muy bien.
+
+Buenas noches.
+Hola.
+¿Cómo te va?
+Genial, terminé un proyecto de diseño gráfico.
+¿Para quién?
+Para una agencia local.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Tranquilo, tomando un café en Starbucks.
+¿Rico?
+Sí, aunque caro.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Perfecto, cerré un contrato con Volkswagen.
+¡Felicidades!
+Gracias.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu nuevo compañero en finanzas.
+Bienvenido.
+Gracias.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré un portátil ASUS.
+¿Va bien?
+Sí, muy rápido.
+
+Hola.
+Hola.
+¿Qué hay de nuevo?
+Estoy estudiando C++.
+¿Es difícil?
+Sí, pero muy potente.
+
+Buenos días.
+Hola.
+¿Cómo va la vida?
+Bien, estuve en Praga.
+¿Y qué tal?
+Preciosa ciudad.
+
+Hola.
+Hola.
+¿Cómo estás?
+Genial, tengo nuevas Adidas.
+¿Te gustan?
+Sí, mucho.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy periodista tecnológico.
+¡Qué interesante!
+Sí, siempre hay novedades.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, estoy aprendiendo Swift.
+¿Para iOS?
+Exacto.
+
+Buenos días.
+Hola.
+¿A qué te dedicas?
+Soy arquitecto de interiores.
+¿Creativo?
+Mucho, pero exigente.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, planeando un viaje a Lisboa.
+¡Qué suerte!
+Sí, estoy emocionado.
+
+Buenas noches.
+Hola.
+¿Quién eres?
+Soy camarero en este restaurante.
+Ah sí.
+Sí, nos vimos ayer.
+
+Hola.
+Hola.
+¿Cómo te sientes?
+Contento, compré un Samsung Galaxy.
+¿Nuevo?
+Sí, funciona rápido.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Día lleno de trabajo.
+¿Dónde trabajas?
+En Google.
+
+Hola.
+Hola.
+¿Qué haces?
+Miro Netflix.
+¿Qué serie?
+La Reina del Sur.
+
+Buenas noches.
+Hola.
+¿Cómo va la vida?
+Bien, regresé de Berlín.
+¿Y cómo fue?
+Muy animada y moderna.
+
+Hola.
+Hola.
+¿Quién eres?
+Soy tu chofer de Uber de ayer.
+Ah sí.
+Sí, el mundo es pequeño.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, pero necesito vacaciones.
+¿Dónde?
+Atenas.
+
+Hola.
+Hola.
+¿Cómo estás?
+Muy bien, compré un portátil MSI.
+¿Gaming?
+Sí, súper potente.
+
+Buenas noches.
+Hola.
+¿Qué haces?
+Soy profesor de inglés.
+¿Difícil?
+A veces, pero me gusta.
+
+Hola.
+Hola.
+¿Cómo estás?
+Bien, tengo boletos para Roma.
+¡Qué bien!
+Sí, estoy feliz.
+
+Buenos días.
+Hola.
+¿Cómo estás?
+Bien, compré zapatillas Nike.
+¿Cómodas?
+Sí, me encantan.

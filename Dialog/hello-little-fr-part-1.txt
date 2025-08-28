@@ -1,0 +1,1889 @@
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je reviens de Paris.
+Et alors ?
+Magnifique mais cher.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau designer de l’équipe.
+Enchanté.
+Moi aussi.
+
+Coucou !
+Yo !
+Ça va la vie ?
+Tranquille, j’ai acheté des baskets Nike.
+Elles sont bien ?
+Super confortables.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Un peu fatigué, beaucoup de réunions.
+Tu travailles où ?
+Chez Microsoft.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je cherche des billets pour Rome.
+Vacances ?
+Oui, enfin.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe indépendant.
+Cool !
+Oui, je voyage beaucoup.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Toyota.
+Bonne voiture ?
+Très fiable.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Parfait, je viens de finir un projet de design.
+Pour qui ?
+Une start-up locale.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Tranquille, je bois un café chez Starbucks.
+Bon ?
+Toujours bon, mais cher.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Super, j’ai fini un projet pour BMW.
+Wow !
+Oui, je suis fier.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue au marketing.
+Enchanté.
+Merci !
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un ordinateur Lenovo.
+Rapide ?
+Oui, très.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’étudie Python aujourd’hui.
+Tu aimes ça ?
+Oui, très logique.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Vienne.
+Et c’était comment ?
+Calme et beau.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, j’ai acheté des Adidas.
+Stylées ?
+Oui, j’adore.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste, j’écris sur le voyage.
+Intéressant.
+Oui, je voyage beaucoup.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’apprends Kotlin.
+Facile ?
+Pas trop, mais utile.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte.
+Difficile ?
+Parfois, mais passionnant.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je prépare un voyage à Barcelone.
+Chanceux !
+Oui, impatient.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans ce bar.
+Ah oui !
+Ravi de te revoir.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un iPhone.
+Le nouveau ?
+Oui, il est super.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Journée chargée.
+Tu bosses où ?
+Chez Google.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+La Casa de Papel.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Impressions ?
+Moderne mais cher.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais besoin de vacances.
+Où ça ?
+À Lisbonne.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un PC MSI.
+Gaming ?
+Oui, très puissant.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur.
+Dur ?
+Oui, mais gratifiant.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Athènes.
+Super !
+Oui, j’ai hâte.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Puma.
+Confortables ?
+Oui, très.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je viens de rentrer de Madrid.
+Et alors ?
+Ville ensoleillée, pleine d’énergie.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau développeur dans l’équipe.
+Bienvenue.
+Merci, ravi d’être là.
+
+Coucou !
+Yo !
+Comment va la vie ?
+Tranquille, j’ai acheté des baskets Puma.
+Elles sont bien ?
+Oui, super confortables.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Un peu fatigué, j’ai travaillé tard.
+Où ça ?
+Dans une agence de pub.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je regarde les billets pour Athènes.
+Vacances ?
+Oui, besoin de soleil.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe de voyage.
+Cool.
+Oui, je prends des photos partout.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Honda.
+Bonne voiture ?
+Oui, très pratique.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai fini un projet de design.
+Pour qui ?
+Pour une start-up parisienne.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Calme, je bois un café chez Starbucks.
+Et le goût ?
+Toujours bon.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Génial, j’ai terminé un projet pour Audi.
+Bravo !
+Merci.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en RH.
+Enchanté.
+Moi aussi.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un ordinateur HP.
+Rapide ?
+Oui, ça marche bien.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends Java.
+Pas trop dur ?
+Un peu, mais intéressant.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, j’ai visité Prague.
+Et alors ?
+Magnifique vieille ville.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, nouvelles Adidas.
+Stylées ?
+Oui, confortables aussi.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste sportif.
+Sympa !
+Oui, plein d’émotions.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’apprends Swift.
+Pour iOS ?
+Exactement.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte d’intérieur.
+Passionnant ?
+Oui, très créatif.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je prépare un voyage à Barcelone.
+Chanceux !
+Oui, impatient.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans un hôtel.
+Ah oui !
+Oui, on s’est croisé hier.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Heureux, j’ai acheté un Samsung Galaxy.
+Tu l’aimes bien ?
+Oui, super fluide.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Chargé de travail aujourd’hui.
+Où tu bosses ?
+Chez Deloitte.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+Breaking Bad.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je viens de rentrer de Berlin.
+Tes impressions ?
+Très moderne.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier.
+Ah oui !
+Oui, petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais je veux des vacances.
+Où ça ?
+À Rome.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un MSI gaming laptop.
+Puissant ?
+Oui, une machine.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur d’anglais.
+C’est bien ?
+Oui, parfois difficile.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Lisbonne.
+Trop bien !
+Oui, j’ai hâte.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des chaussures Reebok.
+Confortables ?
+Oui, très légères.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je viens de revenir de Lisbonne.
+Et c’était comment ?
+Chaleureux et ensoleillé.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau chef de projet.
+Bienvenue !
+Merci, heureux d’être ici.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des Nike.
+Elles sont stylées ?
+Oui, j’adore.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Un peu fatigué, beaucoup de travail.
+Tu travailles où ?
+Chez Microsoft.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je cherche des billets pour Rome.
+Pour le plaisir ?
+Oui, vacances.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe à Paris.
+Sympa.
+Oui, j’adore ce métier.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Toyota.
+Bonne voiture ?
+Oui, fiable.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai fini un projet de design UX.
+Pour qui ?
+Une start-up locale.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Cool, je bois un café chez Starbucks.
+Bon ?
+Toujours bon.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Parfait, j’ai terminé un projet pour Mercedes.
+Félicitations !
+Merci.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en IT.
+Enchanté.
+Moi aussi.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un Lenovo.
+Rapide ?
+Oui, super efficace.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends Python.
+Tu aimes ça ?
+Oui, très logique.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Vienne.
+Et ?
+Ville calme et belle.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, nouvelles Adidas.
+Confortables ?
+Oui, parfaites.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste, je couvre la technologie.
+Intéressant.
+Oui, beaucoup de nouveautés.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’apprends Kotlin.
+Difficile ?
+Pas trop.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte.
+Passionnant ?
+Oui, mais stressant.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je prépare un voyage à Barcelone.
+Cool !
+Oui, impatient.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans ce café.
+Ah oui !
+Ravi de te revoir.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un iPhone.
+Le dernier ?
+Oui, excellent.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Beaucoup de réunions aujourd’hui.
+Où tu bosses ?
+Chez Google.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+La Casa de Papel.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Impressions ?
+Très moderne, mais cher.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier soir.
+Ah, je m’en souviens !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais j’ai besoin de vacances.
+Où ça ?
+À Athènes.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un MSI gamer.
+Puissant ?
+Oui, une bête.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur de maths.
+C’est dur ?
+Parfois, mais gratifiant.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Prague.
+Super !
+Oui, hâte d’y aller.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Puma.
+Confortables ?
+Oui, parfaites pour marcher.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je viens de rentrer de Bruxelles.
+Et alors ?
+Ville agréable, beaucoup de bières.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau comptable.
+Enchanté.
+Merci, ravi de te rencontrer.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des Puma.
+Stylées ?
+Oui, et très confortables.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Fatigué, longue journée.
+Où tu bosses ?
+Dans une banque.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je regarde les vols pour Barcelone.
+Vacances ?
+Oui, j’ai besoin de soleil.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis guide à Paris.
+Super !
+Oui, j’adore montrer la ville.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Honda.
+Tu es content ?
+Oui, très pratique.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Parfait, j’ai fini un projet de graphisme.
+Pour qui ?
+Pour une boutique en ligne.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Cool, je bois un cappuccino chez Starbucks.
+Et le goût ?
+Toujours délicieux.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Super, j’ai terminé un projet pour Volkswagen.
+Bravo !
+Merci, ça n’a pas été facile.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en marketing.
+Ah, bienvenue !
+Merci.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un ordinateur Dell.
+Rapide ?
+Oui, j’aime bien.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends le JavaScript.
+Pas trop dur ?
+Ça va, pratique pour le web.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, j’étais à Prague la semaine dernière.
+Et alors ?
+Ville magnifique, pleine d’histoire.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, nouvelles chaussures Adidas.
+Confortables ?
+Oui, parfaites pour courir.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste de voyage.
+Ah sympa !
+Oui, beaucoup d’aventures.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’étudie le Swift.
+Pour iOS ?
+Exactement.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte d’intérieur.
+Cool !
+Oui, métier créatif.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je planifie un voyage à Rome.
+Chanceux !
+Oui, hâte d’y aller.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans l’hôtel.
+Ah je te reconnais !
+Oui, c’était hier soir.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un Samsung Galaxy.
+Il est bien ?
+Oui, super fluide.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Beaucoup de travail.
+Où tu bosses ?
+Chez Deloitte.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+The Witcher.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Impressions ?
+Ville moderne et dynamique.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais je rêve de vacances.
+Où ça ?
+À Lisbonne.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un PC gamer MSI.
+Puissant ?
+Oui, une vraie machine.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur de français.
+Sympa !
+Oui, j’aime enseigner.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Athènes.
+Génial !
+Oui, impatient.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Reebok.
+Confortables ?
+Oui, très légères.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je viens de rentrer de Marseille.
+Et alors ?
+Soleil et plage, parfait.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau développeur web.
+Tu codes en quoi ?
+Principalement en Python.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des baskets Nike.
+Elles sont belles ?
+Oui, stylées et confortables.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Un peu fatigué après le travail.
+Tu fais quoi ?
+Je suis comptable.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je cherche des billets pour Lisbonne.
+Vacances ?
+Oui, besoin d’air.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe freelance.
+Ah sympa !
+Oui, je voyage beaucoup.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Toyota.
+Bonne affaire ?
+Oui, fiable et économique.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai fini un projet UX.
+Pour qui ?
+Une start-up de Paris.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Cool, je bois un café Starbucks.
+Cher ?
+Toujours trop cher, mais bon.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Parfait, j’ai terminé un projet pour Peugeot.
+Bravo !
+Merci, je suis content.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en finance.
+Bienvenue !
+Merci.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un PC Lenovo.
+Rapide ?
+Oui, j’adore.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends Kotlin.
+Intéressant ?
+Oui, pour Android.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Prague.
+Et ?
+Ville magnifique.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, nouvelles Adidas.
+Tu aimes ?
+Oui, très confortables.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste culturel.
+Cool !
+Oui, beaucoup de spectacles.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’apprends le Swift.
+Pas trop dur ?
+Ça va, j’avance.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte.
+Passionnant ?
+Oui, mais stressant parfois.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je planifie un voyage à Barcelone.
+Bonne idée !
+Oui, hâte d’y être.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans ce club.
+Ah oui !
+Oui, on s’est vu hier.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un iPhone.
+Le dernier ?
+Oui, trop cher mais génial.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Beaucoup de travail aujourd’hui.
+Où tu bosses ?
+Chez Google.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+Stranger Things.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Impressions ?
+Ville moderne.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber de ce matin.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais besoin de vacances.
+Destination ?
+Athènes.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un MSI gamer.
+Puissant ?
+Oui, une vraie bête.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur d’histoire.
+Passionnant ?
+Oui, beaucoup.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Rome.
+Super !
+Oui, impatient.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Puma.
+Confortables ?
+Oui, excellentes pour marcher.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je reviens de Lyon.
+Et alors ?
+Ville sympa, bonne cuisine.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau designer graphique.
+Enchanté.
+Merci, ravi d’être là.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des chaussures Puma.
+Confortables ?
+Oui, parfaites pour marcher.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Fatigué, beaucoup de travail.
+Tu bosses où ?
+Chez Microsoft.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je regarde des vols pour Barcelone.
+Vacances ?
+Oui, enfin.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe à Marseille.
+Intéressant.
+Oui, j’aime la mer.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Honda.
+Bonne voiture ?
+Oui, très fiable.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai fini un projet de design.
+Pour qui ?
+Une entreprise locale.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Cool, je bois un café Starbucks.
+Et le goût ?
+Toujours bon, toujours cher.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Parfait, j’ai terminé un projet pour Renault.
+Bravo !
+Merci beaucoup.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en marketing.
+Bienvenue.
+Merci !
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un PC Dell.
+Tu en es content ?
+Oui, rapide.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends le Java.
+Dur ?
+Un peu, mais utile.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je suis allé à Prague.
+Impressions ?
+Magnifique ville.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, j’ai de nouvelles Adidas.
+Stylées ?
+Oui, je les adore.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste musical.
+Super !
+Oui, beaucoup de concerts.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’étudie le Swift.
+Tu aimes ?
+Oui, intéressant.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte d’intérieur.
+Cool.
+Oui, très créatif.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je prépare un voyage à Rome.
+Bonne idée !
+Oui, j’ai hâte.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans ce café.
+Ah oui !
+On s’est vus hier.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un Samsung Galaxy.
+Tu l’aimes ?
+Oui, super.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Journée chargée.
+Tu bosses où ?
+Chez Deloitte.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+The Witcher.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je viens de rentrer de Berlin.
+Et alors ?
+Ville moderne, un peu chère.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier soir.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais besoin de vacances.
+Destination ?
+Lisbonne.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un PC MSI.
+Gaming ?
+Oui, très puissant.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur d’anglais.
+C’est bien ?
+Oui, j’aime beaucoup.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Athènes.
+Tu as de la chance !
+Oui, impatient.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Reebok.
+Confortables ?
+Oui, légères et pratiques.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je reviens de Nice.
+Et c’était comment ?
+Soleil et mer, parfait.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau chef de projet.
+Bienvenue !
+Merci, content d’être là.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des Nike.
+Stylées ?
+Oui, super confortables.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Un peu fatigué, journée longue.
+Tu bosses où ?
+Chez Amazon.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je regarde des billets pour Rome.
+Vacances ?
+Oui, besoin de repos.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe indépendant.
+Cool.
+Oui, j’adore voyager.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Toyota.
+Bonne voiture ?
+Oui, fiable et pratique.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai terminé un projet de design.
+Pour qui ?
+Une start-up.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Positif, je bois un café Starbucks.
+Et le goût ?
+Toujours bon, mais cher.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Parfait, j’ai fini un projet pour Peugeot.
+Bravo !
+Merci, ça fait plaisir.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en IT.
+Enchanté.
+Moi aussi.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un PC Lenovo.
+Tu aimes ?
+Oui, rapide.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends le C++.
+Difficile ?
+Oui, mais puissant.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je suis allé à Prague.
+Impressions ?
+Ville magnifique.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, j’ai des Adidas neuves.
+Stylées ?
+Oui, parfaites.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste économique.
+Intéressant !
+Oui, beaucoup d’articles.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’apprends Kotlin.
+Pour Android ?
+Oui, exactement.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte.
+Passionnant ?
+Oui, mais stressant.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je prépare un voyage à Barcelone.
+Bonne idée !
+Oui, impatient.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans ce bar.
+Ah oui !
+Oui, on s’est croisés hier.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un iPhone.
+Le dernier ?
+Oui, génial.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Beaucoup de réunions.
+Tu bosses où ?
+Chez Google.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+La Casa de Papel.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Et alors ?
+Ville moderne.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais besoin de vacances.
+Destination ?
+Lisbonne.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un MSI gamer.
+Puissant ?
+Oui, une vraie bête.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur de maths.
+Dur ?
+Parfois, mais intéressant.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Athènes.
+Chanceux !
+Oui, impatient.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Puma.
+Confortables ?
+Oui, parfaites.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je viens de rentrer de Bordeaux.
+Et alors ?
+Le vin et la nourriture, incroyables.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau graphiste.
+Bienvenue.
+Merci, ravi d’être ici.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des baskets Reebok.
+Elles sont bien ?
+Oui, très légères.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Fatigué après une longue journée.
+Tu travailles où ?
+Chez Microsoft.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je cherche des billets pour Barcelone.
+Pour le travail ?
+Non, pour les vacances.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe de mode.
+Intéressant.
+Oui, beaucoup de voyages.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Mazda.
+Content ?
+Oui, super à conduire.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai fini un projet de design web.
+Pour quel client ?
+Une société française.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Positif, je bois un cappuccino chez Starbucks.
+Et le goût ?
+Toujours délicieux.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Parfait, j’ai terminé un projet pour Renault.
+Bravo !
+Merci, beaucoup de travail.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en finance.
+Enchanté.
+Moi aussi.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un ordinateur Dell.
+Et alors ?
+Rapide et fiable.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends le Java.
+C’est difficile ?
+Un peu, mais utile.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je suis allé à Vienne.
+Et c’était comment ?
+Très calme et élégant.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, j’ai de nouvelles Adidas.
+Stylées ?
+Oui, je les adore.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste politique.
+Ah intéressant !
+Oui, mais parfois stressant.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’étudie le Swift.
+Facile ?
+Pas trop, mais amusant.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte.
+Beau métier.
+Oui, mais beaucoup de pression.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je planifie un voyage à Rome.
+Tu as de la chance !
+Oui, impatient.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans cet hôtel.
+Ah oui !
+Oui, on s’est croisé hier.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un Samsung.
+Le nouveau ?
+Oui, très rapide.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Beaucoup de travail aujourd’hui.
+Tu bosses où ?
+Chez Deloitte.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+The Crown.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Impressions ?
+Ville moderne, beaucoup de monde.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier soir.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais besoin de vacances.
+Destination ?
+Athènes.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un PC MSI.
+Gaming ?
+Oui, très puissant.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur de français.
+Sympa.
+Oui, j’adore enseigner.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Prague.
+Génial !
+Oui, j’ai hâte.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Puma.
+Confortables ?
+Oui, parfaites.
+
+Salut !
+Salut.
+Comment ça va ?
+Très bien, je viens de rentrer de Lille.
+Et alors ?
+Ville sympa, bonne ambiance.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis le nouveau développeur mobile.
+Bienvenue.
+Merci, content d’être là.
+
+Coucou !
+Yo !
+Comment va ?
+Tranquille, j’ai acheté des baskets Nike.
+Elles sont cool ?
+Oui, super légères.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Fatigué, beaucoup de réunions.
+Où tu bosses ?
+Chez Google.
+
+Salut.
+Salut.
+Qu’est-ce que tu fais ?
+Je cherche un billet pour Lisbonne.
+Vacances ?
+Oui, besoin de soleil.
+
+Bonjour.
+Bonjour.
+Qui es-tu ?
+Je suis photographe de mariage.
+Sympa !
+Oui, mais stressant parfois.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, j’ai acheté une Toyota.
+Bonne voiture ?
+Oui, fiable.
+
+Bonsoir.
+Salut.
+Comment vas-tu ?
+Super, j’ai fini un projet de design UX.
+Pour qui ?
+Une start-up locale.
+
+Salut.
+Salut.
+Comment est ton humeur ?
+Positif, je bois un café chez Starbucks.
+Goût ?
+Toujours bon.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Parfait, j’ai terminé un projet pour BMW.
+Félicitations !
+Merci.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton nouveau collègue en RH.
+Enchanté.
+Moi aussi.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, j’ai acheté un Lenovo.
+Rapide ?
+Oui, j’adore.
+
+Salut.
+Salut.
+Quoi de neuf ?
+J’apprends Python.
+Tu aimes ?
+Oui, logique.
+
+Bonjour.
+Salut.
+Comment va la vie ?
+Bien, je suis allé à Prague.
+Et alors ?
+Magnifique ville.
+
+Salut !
+Salut.
+Comment ça va ?
+Génial, j’ai des Adidas neuves.
+Stylées ?
+Oui, confortables aussi.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis journaliste sportif.
+Cool !
+Oui, beaucoup d’action.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’apprends le Swift.
+Pas trop dur ?
+Ça va.
+
+Bonjour.
+Salut.
+Tu fais quoi ?
+Je suis architecte d’intérieur.
+Beau métier.
+Oui, très créatif.
+
+Salut !
+Salut.
+Comment ça va ?
+Bien, je prépare un voyage à Barcelone.
+Bonne idée !
+Oui, impatient.
+
+Bonsoir.
+Salut.
+Qui es-tu ?
+Je suis barman dans ce bar.
+Ah oui !
+Oui, on s’est croisés hier.
+
+Salut !
+Salut.
+Comment est ton humeur ?
+Content, j’ai acheté un iPhone.
+Le dernier ?
+Oui, superbe.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Beaucoup de travail.
+Où tu bosses ?
+Chez Deloitte.
+
+Salut.
+Salut.
+Quoi de neuf ?
+Je regarde Netflix.
+Quelle série ?
+Stranger Things.
+
+Bonsoir.
+Salut.
+Comment va la vie ?
+Bien, je reviens de Berlin.
+Impressions ?
+Ville moderne.
+
+Salut !
+Salut.
+Qui es-tu ?
+Je suis ton chauffeur Uber d’hier.
+Ah oui !
+Petit monde.
+
+Bonjour.
+Salut.
+Comment ça va ?
+Bien, mais je rêve de vacances.
+Où ça ?
+À Rome.
+
+Salut !
+Salut.
+Comment ça va ?
+Super, j’ai acheté un PC MSI.
+Puissant ?
+Oui, idéal pour jouer.
+
+Bonsoir.
+Salut.
+Tu fais quoi ?
+Je suis professeur d’anglais.
+Bien ?
+Oui, j’adore enseigner.
+
+Salut.
+Salut.
+Comment ça va ?
+Bien, j’ai réservé des billets pour Athènes.
+Tu as de la chance !
+Oui, j’ai hâte.
+
+Bonjour.
+Salut.
+Comment vas-tu ?
+Bien, j’ai acheté des Puma.
+Confortables ?
+Oui, parfaites pour courir.

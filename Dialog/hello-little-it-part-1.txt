@@ -1,0 +1,1259 @@
+Ciao!
+Ciao.
+Come stai?
+Bene, sono appena tornato da Roma.
+Com’è andata?
+Bellissima città, ma un po’ cara.
+
+Buongiorno.
+Buongiorno.
+Chi sei?
+Sono il nuovo project manager.
+Piacere.
+Il piacere è mio.
+
+Ehi!
+Ciao!
+Come va?
+Tutto bene, ho comprato nuove scarpe Adidas.
+Comode?
+Molto comode.
+
+Buonasera.
+Ciao.
+Come stai?
+Un po’ stanco, troppe riunioni oggi.
+Dove lavori?
+In Microsoft.
+
+Ciao.
+Ciao.
+Che fai?
+Sto cercando voli per Barcellona.
+Vacanza?
+Sì, finalmente.
+
+Buongiorno.
+Ciao.
+Chi sei?
+Sono un fotografo di Milano.
+Che bello.
+Sì, viaggio spesso.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho comprato una Toyota.
+Ti piace?
+Sì, molto affidabile.
+
+Buonasera.
+Ciao.
+Come stai?
+Benissimo, ho finito un progetto di design.
+Per chi?
+Per una startup locale.
+
+Ciao.
+Ciao.
+Come ti senti?
+Tranquillo, sto bevendo un caffè da Starbucks.
+Buono?
+Sempre buono, ma caro.
+
+Buongiorno.
+Ciao.
+Come va?
+Perfetto, ho concluso un progetto per BMW.
+Complimenti!
+Grazie.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo nuovo collega in marketing.
+Benvenuto.
+Grazie mille.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato un portatile Lenovo.
+Veloce?
+Molto veloce.
+
+Ciao!
+Ciao.
+Che c’è di nuovo?
+Sto studiando Python.
+Ti piace?
+Sì, molto logico.
+
+Buongiorno.
+Ciao.
+Come va la vita?
+Bene, sono stato a Vienna.
+E com’era?
+Molto tranquilla.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho nuove scarpe Nike.
+Belle?
+Molto stilose.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono un giornalista di viaggi.
+Interessante.
+Sì, vedo tanti posti.
+
+Ciao.
+Ciao.
+Come va?
+Bene, sto imparando Kotlin.
+Difficile?
+Un po’, ma utile.
+
+Buongiorno.
+Ciao.
+Che lavoro fai?
+Sono architetto.
+Che bello.
+Sì, ma stressante.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sto programmando una vacanza a Roma.
+Che fortuna!
+Sì, non vedo l’ora.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono un barista in questo locale.
+Ah sì!
+Sì, ci siamo visti ieri.
+
+Ciao!
+Ciao.
+Come ti senti?
+Felice, ho comprato un iPhone.
+L’ultimo modello?
+Sì, fantastico.
+
+Buongiorno.
+Ciao.
+Come va?
+Giornata piena di lavoro.
+Dove lavori?
+In Google.
+
+Ciao.
+Ciao.
+Che fai?
+Sto guardando Netflix.
+Che serie?
+La Casa di Carta.
+
+Buonasera.
+Ciao.
+Come va la vita?
+Bene, sono tornato da Berlino.
+E com’è?
+Moderna e cara.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo autista Uber di ieri.
+Ah sì!
+Che piccolo mondo.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ma ho bisogno di vacanza.
+Dove vuoi andare?
+A Lisbona.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho comprato un portatile MSI.
+Per giocare?
+Sì, molto potente.
+
+Buonasera.
+Ciao.
+Che fai?
+Sono professore.
+Difficile?
+A volte, ma mi piace.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho prenotato biglietti per Atene.
+Che bello!
+Sì, sono felice.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato scarpe Puma.
+Comode?
+Molto.
+
+Ciao!
+Ciao.
+Come stai?
+Molto bene, sono appena tornato da Napoli.
+Com’era?
+Calda, caotica ma bellissima.
+
+Buongiorno.
+Buongiorno.
+Chi sei?
+Sono il nuovo sviluppatore nel team.
+Piacere di conoscerti.
+Piacere mio.
+
+Ehi!
+Ciao!
+Come va?
+Bene, ho comprato scarpe Puma.
+Comode?
+Sì, molto leggere.
+
+Buonasera.
+Ciao.
+Come stai?
+Stanco, giornata lunga.
+Dove lavori?
+In una banca.
+
+Ciao.
+Ciao.
+Che fai?
+Cerco biglietti per Madrid.
+Vacanza?
+Sì, voglio rilassarmi.
+
+Buongiorno.
+Ciao.
+Chi sei?
+Sono fotografo a Firenze.
+Che bello!
+Sì, adoro l’arte.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho comprato una Honda.
+Ti piace?
+Sì, molto pratica.
+
+Buonasera.
+Ciao.
+Come stai?
+Benissimo, ho finito un progetto di grafica.
+Per chi?
+Per un negozio online.
+
+Ciao.
+Ciao.
+Come ti senti?
+Tranquillo, sto bevendo un cappuccino da Starbucks.
+Buono?
+Sempre buono.
+
+Buongiorno.
+Ciao.
+Come va?
+Perfetto, ho concluso un progetto per Audi.
+Bravo!
+Grazie.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il nuovo collega in risorse umane.
+Benvenuto.
+Grazie tante.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato un portatile HP.
+Funziona bene?
+Sì, veloce.
+
+Ciao!
+Ciao.
+Che c’è di nuovo?
+Sto imparando Java.
+Difficile?
+Un po’, ma utile.
+
+Buongiorno.
+Ciao.
+Come va la vita?
+Bene, sono stato a Praga.
+E com’era?
+Bellissima città storica.
+
+Ciao!
+Ciao.
+Come stai?
+Fantastico, ho nuove scarpe Adidas.
+Belle?
+Sì, molto.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono giornalista sportivo.
+Interessante!
+Sì, partite ogni settimana.
+
+Ciao.
+Ciao.
+Come va?
+Bene, sto studiando Swift.
+Per iOS?
+Esatto.
+
+Buongiorno.
+Ciao.
+Che lavoro fai?
+Sono architetto d’interni.
+Creativo?
+Molto, ma impegnativo.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sto organizzando un viaggio a Barcellona.
+Che fortuna!
+Sì, non vedo l’ora.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono barista in questo bar.
+Ah, ti ricordo!
+Sì, ci siamo visti ieri.
+
+Ciao!
+Ciao.
+Come ti senti?
+Felice, ho comprato un Samsung Galaxy.
+Nuovo modello?
+Sì, molto veloce.
+
+Buongiorno.
+Ciao.
+Come va?
+Troppe riunioni oggi.
+Dove lavori?
+In Deloitte.
+
+Ciao.
+Ciao.
+Che fai?
+Guardo Netflix.
+Quale serie?
+Breaking Bad.
+
+Buonasera.
+Ciao.
+Come va la vita?
+Bene, sono tornato da Berlino.
+E com’era?
+Moderna e movimentata.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo autista Uber di ieri.
+Ah sì!
+Che coincidenza.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ma ho bisogno di vacanza.
+Dove?
+A Roma.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho comprato un MSI.
+Per il gaming?
+Sì, potentissimo.
+
+Buonasera.
+Ciao.
+Che fai?
+Sono professore d’inglese.
+Ti piace?
+Sì, molto.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho prenotato biglietti per Atene.
+Bravo!
+Sì, non vedo l’ora.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato scarpe Reebok.
+Comode?
+Molto leggere.
+
+Ciao!
+Ciao.
+Come stai?
+Molto bene, sono appena tornato da Milano.
+E com’era?
+Moderna e piena di moda.
+
+Buongiorno.
+Buongiorno.
+Chi sei?
+Sono il nuovo avvocato dello studio.
+Piacere.
+Piacere mio.
+
+Ehi!
+Ciao!
+Come va?
+Tutto bene, ho comprato scarpe Nike.
+Ti piacciono?
+Sì, molto comode.
+
+Buonasera.
+Ciao.
+Come stai?
+Un po’ stanco, giornata lunga.
+Dove lavori?
+In banca.
+
+Ciao.
+Ciao.
+Che fai?
+Cerco biglietti per Lisbona.
+Vacanza?
+Sì, mare e sole.
+
+Buongiorno.
+Ciao.
+Chi sei?
+Sono fotografo freelance.
+Interessante!
+Sì, viaggio spesso.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho comprato una Ford.
+Sei contento?
+Sì, ottima scelta.
+
+Buonasera.
+Ciao.
+Come stai?
+Benissimo, ho finito un progetto di UX.
+Per chi?
+Per una startup.
+
+Ciao.
+Ciao.
+Come ti senti?
+Tranquillo, sto bevendo un caffè da Starbucks.
+Buono?
+Sempre buono.
+
+Buongiorno.
+Ciao.
+Come va?
+Perfetto, progetto per Mercedes concluso.
+Complimenti!
+Grazie mille.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il nuovo collega in IT.
+Benvenuto.
+Grazie!
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato un portatile Dell.
+Veloce?
+Molto veloce.
+
+Ciao!
+Ciao.
+Che c’è di nuovo?
+Sto studiando Kotlin.
+È difficile?
+Un po’, ma utile.
+
+Buongiorno.
+Ciao.
+Come va la vita?
+Bene, sono stato a Vienna.
+E com’era?
+Molto elegante.
+
+Ciao!
+Ciao.
+Come stai?
+Fantastico, ho nuove Adidas.
+Stilose?
+Sì, perfette.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono giornalista culturale.
+Che bello!
+Sì, molti eventi.
+
+Ciao.
+Ciao.
+Come va?
+Bene, sto imparando Swift.
+Per iOS?
+Esatto.
+
+Buongiorno.
+Ciao.
+Che lavoro fai?
+Sono architetto.
+Creativo?
+Sì, molto.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sto organizzando un viaggio a Praga.
+Che bello!
+Sì, non vedo l’ora.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono barista in un hotel.
+Ah sì!
+Ci siamo visti ieri.
+
+Ciao!
+Ciao.
+Come ti senti?
+Felice, ho comprato un iPhone.
+Nuovo modello?
+Sì, fotocamera fantastica.
+
+Buongiorno.
+Ciao.
+Come va?
+Giornata pesante.
+Dove lavori?
+In Google.
+
+Ciao.
+Ciao.
+Che fai?
+Guardo Netflix.
+Che serie?
+La Regina degli Scacchi.
+
+Buonasera.
+Ciao.
+Come va la vita?
+Bene, sono tornato da Berlino.
+E com’era?
+Molto moderna.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo autista Uber di ieri.
+Ah sì!
+Che coincidenza.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ma ho bisogno di vacanza.
+Dove?
+A Madrid.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho comprato un MSI.
+Potente?
+Sì, ottimo per i giochi.
+
+Buonasera.
+Ciao.
+Che fai?
+Sono professore di matematica.
+Difficile?
+A volte, ma bello.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho prenotato biglietti per Barcellona.
+Che fortuna!
+Sì, sono felice.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato scarpe Puma.
+Comode?
+Sì, molto.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sono appena tornato da Torino.
+E com’era?
+Bella città, molto tranquilla.
+
+Buongiorno.
+Buongiorno.
+Chi sei?
+Sono il nuovo responsabile vendite.
+Piacere.
+Piacere mio.
+
+Ehi!
+Ciao!
+Come va?
+Tutto bene, ho comprato scarpe Reebok.
+Comode?
+Sì, leggere e pratiche.
+
+Buonasera.
+Ciao.
+Come stai?
+Stanco, ho lavorato fino a tardi.
+Che lavoro fai?
+Sono avvocato.
+
+Ciao.
+Ciao.
+Che fai?
+Sto cercando voli per Vienna.
+Vacanza?
+Sì, un weekend corto.
+
+Buongiorno.
+Ciao.
+Chi sei?
+Sono fotografo di matrimoni.
+Interessante!
+Sì, ma stressante.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho comprato una Mazda.
+Ti piace?
+Sì, ottima da guidare.
+
+Buonasera.
+Ciao.
+Come stai?
+Benissimo, ho concluso un progetto di grafica.
+Per chi?
+Per un negozio di moda.
+
+Ciao.
+Ciao.
+Come ti senti?
+Tranquillo, sto bevendo un cappuccino.
+Buono?
+Molto.
+
+Buongiorno.
+Ciao.
+Come va?
+Perfetto, progetto per Volkswagen finito.
+Bravo!
+Grazie.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il nuovo collega in risorse umane.
+Benvenuto!
+Grazie mille.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato un portatile ASUS.
+Funziona bene?
+Sì, veloce.
+
+Ciao!
+Ciao.
+Che c’è di nuovo?
+Sto studiando C++.
+Difficile?
+Abbastanza, ma potente.
+
+Buongiorno.
+Ciao.
+Come va la vita?
+Bene, sono stato a Praga.
+E com’era?
+Magnifica.
+
+Ciao!
+Ciao.
+Come stai?
+Fantastico, ho nuove scarpe Nike.
+Belle?
+Sì, molto comode.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono giornalista economico.
+Che interessante!
+Sì, scrivo molto.
+
+Ciao.
+Ciao.
+Come va?
+Bene, sto imparando Swift.
+È utile?
+Sì, per le app iOS.
+
+Buongiorno.
+Ciao.
+Che lavoro fai?
+Sono architetto paesaggista.
+Che bello!
+Sì, tanto verde.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sto organizzando un viaggio a Lisbona.
+Che fortuna!
+Sì, non vedo l’ora.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono barista in un ristorante.
+Ah sì!
+Sì, ti ricordo.
+
+Ciao!
+Ciao.
+Come ti senti?
+Felice, ho comprato un Samsung Galaxy.
+Ti piace?
+Sì, molto veloce.
+
+Buongiorno.
+Ciao.
+Come va?
+Giornata piena.
+Dove lavori?
+In Deloitte.
+
+Ciao.
+Ciao.
+Che fai?
+Guardo Netflix.
+Quale serie?
+Lupin.
+
+Buonasera.
+Ciao.
+Come va la vita?
+Bene, sono appena tornato da Berlino.
+E com’era?
+Moderna e interessante.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo autista Uber di ieri.
+Ah sì!
+Che coincidenza.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ma voglio fare vacanza.
+Dove?
+A Roma.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho comprato un portatile MSI.
+Per giocare?
+Sì, è molto potente.
+
+Buonasera.
+Ciao.
+Che fai?
+Sono professore di storia.
+Ti piace?
+Sì, molto.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho prenotato biglietti per Madrid.
+Bravo!
+Sì, sono contento.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato scarpe Puma.
+Comode?
+Sì, perfette.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sono appena tornato da Genova.
+E com’era?
+Bella vista sul mare.
+
+Buongiorno.
+Buongiorno.
+Chi sei?
+Sono il nuovo analista dati.
+Piacere.
+Piacere mio.
+
+Ehi!
+Ciao!
+Come va?
+Tutto bene, ho comprato scarpe Puma.
+Ti piacciono?
+Sì, molto comode.
+
+Buonasera.
+Ciao.
+Come stai?
+Un po’ stanco, giornata lunga.
+Che lavoro fai?
+Sono ingegnere.
+
+Ciao.
+Ciao.
+Che fai?
+Sto cercando voli per Berlino.
+Vacanza?
+Sì, voglio vedere la città.
+
+Buongiorno.
+Ciao.
+Chi sei?
+Sono fotografo a Napoli.
+Che bello!
+Sì, tanta ispirazione.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho comprato una Fiat.
+Sei soddisfatto?
+Sì, molto pratica.
+
+Buonasera.
+Ciao.
+Come stai?
+Benissimo, ho concluso un progetto di grafica.
+Per chi?
+Per un’azienda locale.
+
+Ciao.
+Ciao.
+Come ti senti?
+Tranquillo, sto bevendo un espresso.
+Buono?
+Sempre buono.
+
+Buongiorno.
+Ciao.
+Come va?
+Perfetto, ho finito un progetto per Ferrari.
+Complimenti!
+Grazie.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il nuovo collega in finanza.
+Benvenuto!
+Grazie tante.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato un portatile Lenovo.
+Funziona bene?
+Sì, velocissimo.
+
+Ciao!
+Ciao.
+Che c’è di nuovo?
+Sto studiando Python.
+Ti piace?
+Molto, è logico.
+
+Buongiorno.
+Ciao.
+Come va la vita?
+Bene, sono stato a Firenze.
+E com’era?
+Arte ovunque.
+
+Ciao!
+Ciao.
+Come stai?
+Fantastico, ho nuove scarpe Nike.
+Comode?
+Sì, perfette.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono giornalista tecnologico.
+Interessante!
+Sì, tante novità.
+
+Ciao.
+Ciao.
+Come va?
+Bene, sto imparando Kotlin.
+È utile?
+Sì, per Android.
+
+Buongiorno.
+Ciao.
+Che lavoro fai?
+Sono architetto d’interni.
+Che bello.
+Sì, creativo.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sto organizzando un viaggio a Barcellona.
+Che fortuna!
+Sì, non vedo l’ora.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono barista in questo caffè.
+Ah sì!
+Ci siamo visti ieri.
+
+Ciao!
+Ciao.
+Come ti senti?
+Felice, ho comprato un iPhone.
+Nuovo modello?
+Sì, fantastico.
+
+Buongiorno.
+Ciao.
+Come va?
+Molto lavoro oggi.
+Dove lavori?
+In Google.
+
+Ciao.
+Ciao.
+Che fai?
+Guardo Netflix.
+Che serie?
+La Casa di Carta.
+
+Buonasera.
+Ciao.
+Come va la vita?
+Bene, sono tornato da Praga.
+E com’era?
+Storica e bella.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo autista Uber di ieri.
+Ah sì!
+Che coincidenza.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ma ho bisogno di vacanza.
+Dove vuoi andare?
+A Lisbona.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho comprato un MSI.
+Per gaming?
+Sì, potentissimo.
+
+Buonasera.
+Ciao.
+Che fai?
+Sono professore di scienze.
+Ti piace?
+Sì, molto.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho prenotato biglietti per Roma.
+Bravo!
+Sì, sono felice.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato scarpe Adidas.
+Comode?
+Molto.
+
+Ciao!
+Ciao.
+Come stai?
+Molto bene, sono appena tornato da Venezia.
+E com’era?
+Romantica, ma piena di turisti.
+
+Buongiorno.
+Buongiorno.
+Chi sei?
+Sono il nuovo manager del team.
+Piacere.
+Il piacere è mio.
+
+Ehi!
+Ciao!
+Come va?
+Tutto bene, ho comprato scarpe Adidas.
+Comode?
+Sì, perfette per correre.
+
+Buonasera.
+Ciao.
+Come stai?
+Un po’ stanco, giornata lunga.
+Che lavoro fai?
+Sono avvocato.
+
+Ciao.
+Ciao.
+Che fai?
+Cerco biglietti per Parigi.
+Vacanza?
+Sì, un weekend.
+
+Buongiorno.
+Ciao.
+Chi sei?
+Sono fotografo freelance.
+Interessante!
+Sì, lavoro in diversi eventi.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho comprato una Honda.
+Ti piace?
+Sì, molto affidabile.
+
+Buonasera.
+Ciao.
+Come stai?
+Benissimo, ho concluso un progetto di design.
+Per chi?
+Per una startup.
+
+Ciao.
+Ciao.
+Come ti senti?
+Tranquillo, sto bevendo un cappuccino.
+Buono?
+Sempre buono.
+
+Buongiorno.
+Ciao.
+Come va?
+Perfetto, progetto per Lamborghini finito.
+Complimenti!
+Grazie.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il nuovo collega in marketing.
+Benvenuto.
+Grazie!
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato un portatile Dell.
+Veloce?
+Sì, molto.
+
+Ciao!
+Ciao.
+Che c’è di nuovo?
+Sto imparando Java.
+Difficile?
+Un po’, ma utile.
+
+Buongiorno.
+Ciao.
+Come va la vita?
+Bene, sono stato a Napoli.
+E com’era?
+Calda e caotica.
+
+Ciao!
+Ciao.
+Come stai?
+Fantastico, ho nuove scarpe Puma.
+Ti piacciono?
+Molto.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono giornalista sportivo.
+Interessante!
+Sì, seguo tante partite.
+
+Ciao.
+Ciao.
+Come va?
+Bene, sto imparando Swift.
+Per iOS?
+Esatto.
+
+Buongiorno.
+Ciao.
+Che lavoro fai?
+Sono architetto paesaggista.
+Che bello!
+Sì, tanto verde.
+
+Ciao!
+Ciao.
+Come stai?
+Bene, sto organizzando un viaggio a Barcellona.
+Che fortuna!
+Sì, non vedo l’ora.
+
+Buonasera.
+Ciao.
+Chi sei?
+Sono barista in un hotel.
+Ah sì!
+Ci siamo visti ieri.
+
+Ciao!
+Ciao.
+Come ti senti?
+Felice, ho comprato un Samsung Galaxy.
+Nuovo?
+Sì, molto veloce.
+
+Buongiorno.
+Ciao.
+Come va?
+Giornata impegnativa.
+Dove lavori?
+In Deloitte.
+
+Ciao.
+Ciao.
+Che fai?
+Guardo Netflix.
+Quale serie?
+Stranger Things.
+
+Buonasera.
+Ciao.
+Come va la vita?
+Bene, sono tornato da Berlino.
+E com’era?
+Moderna e piena di vita.
+
+Ciao!
+Ciao.
+Chi sei?
+Sono il tuo autista Uber di ieri.
+Ah sì!
+Che coincidenza.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ma ho bisogno di ferie.
+Dove?
+A Roma.
+
+Ciao!
+Ciao.
+Come stai?
+Benissimo, ho comprato un MSI.
+Potente?
+Sì, perfetto per giocare.
+
+Buonasera.
+Ciao.
+Che fai?
+Sono professore di italiano.
+Ti piace?
+Molto.
+
+Ciao!
+Ciao.
+Come va?
+Bene, ho prenotato biglietti per Lisbona.
+Che bello!
+Sì, sono felice.
+
+Buongiorno.
+Ciao.
+Come stai?
+Bene, ho comprato scarpe Reebok.
+Comode?
+Sì, leggere.
